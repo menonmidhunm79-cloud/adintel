@@ -1,0 +1,897 @@
+company,industry,channel,region,quarter,campaign,spend,impressions,clicks,conversions,revenue
+Helix Mobile,Consumer electronics,Social,North America,2025-Q1,Helix Social 2025-Q1,167207.59,20002336,236601,9089,2167371.1
+Helix Mobile,Consumer electronics,Social,North America,2025-Q2,Helix Social 2025-Q2,230299.0,22665509,289749,8736,2283540.96
+Helix Mobile,Consumer electronics,Social,North America,2025-Q3,Helix Social 2025-Q3,189933.32,20982492,272607,9208,2961730.24
+Helix Mobile,Consumer electronics,Social,North America,2025-Q4,Helix Social 2025-Q4,220970.68,22994151,362149,10458,2629953.71
+Helix Mobile,Consumer electronics,Social,North America,2026-Q1,Helix Social 2026-Q1,157381.96,20207181,208600,6929,1920694.04
+Helix Mobile,Consumer electronics,Social,North America,2026-Q2,Helix Social 2026-Q2,184825.14,19188531,250345,8251,2135366.24
+Helix Mobile,Consumer electronics,Social,North America,2026-Q3,Helix Social 2026-Q3,215369.54,26086216,366756,10513,2828624.47
+Helix Mobile,Consumer electronics,Social,Europe,2025-Q1,Helix Social 2025-Q1,139712.04,13610988,149710,4437,1384131.53
+Helix Mobile,Consumer electronics,Social,Europe,2025-Q2,Helix Social 2025-Q2,146419.66,14189981,195276,7129,1751545.24
+Helix Mobile,Consumer electronics,Social,Europe,2025-Q3,Helix Social 2025-Q3,174032.81,18815410,283738,8794,2534959.66
+Helix Mobile,Consumer electronics,Social,Europe,2025-Q4,Helix Social 2025-Q4,154684.15,17436980,208526,5825,1785933.75
+Helix Mobile,Consumer electronics,Social,Europe,2026-Q1,Helix Social 2026-Q1,156287.84,14561355,196265,6776,1975975.77
+Helix Mobile,Consumer electronics,Social,Europe,2026-Q2,Helix Social 2026-Q2,149880.15,18446828,232918,6808,1850619.85
+Helix Mobile,Consumer electronics,Social,Europe,2026-Q3,Helix Social 2026-Q3,197268.88,18438655,209166,7424,1954292.63
+Helix Mobile,Consumer electronics,Social,APAC,2025-Q1,Helix Social 2025-Q1,110452.42,11344770,123308,4686,1487339.12
+Helix Mobile,Consumer electronics,Social,APAC,2025-Q2,Helix Social 2025-Q2,153527.66,16255576,177966,5080,1605226.77
+Helix Mobile,Consumer electronics,Social,APAC,2025-Q3,Helix Social 2025-Q3,158804.76,19322274,292780,10263,2933959.55
+Helix Mobile,Consumer electronics,Social,APAC,2025-Q4,Helix Social 2025-Q4,215501.2,24093127,276668,7279,2268324.33
+Helix Mobile,Consumer electronics,Social,APAC,2026-Q1,Helix Social 2026-Q1,200690.55,21406875,255895,9377,2251751.0
+Helix Mobile,Consumer electronics,Social,APAC,2026-Q2,Helix Social 2026-Q2,145278.65,18756272,202934,8071,2366988.4
+Helix Mobile,Consumer electronics,Social,APAC,2026-Q3,Helix Social 2026-Q3,160546.92,17263515,260479,8009,2303303.28
+Helix Mobile,Consumer electronics,Social,LATAM,2025-Q1,Helix Social 2025-Q1,91140.88,10392875,135886,5007,1574120.52
+Helix Mobile,Consumer electronics,Social,LATAM,2025-Q2,Helix Social 2025-Q2,99342.74,9380566,95207,3491,1068642.41
+Helix Mobile,Consumer electronics,Social,LATAM,2025-Q3,Helix Social 2025-Q3,97643.43,10886105,160688,4172,1213340.58
+Helix Mobile,Consumer electronics,Social,LATAM,2025-Q4,Helix Social 2025-Q4,107863.72,11640855,165904,4818,1227029.39
+Helix Mobile,Consumer electronics,Social,LATAM,2026-Q1,Helix Social 2026-Q1,67392.04,8203405,99178,3917,1121001.82
+Helix Mobile,Consumer electronics,Social,LATAM,2026-Q2,Helix Social 2026-Q2,117148.94,13773635,214035,6892,2207886.26
+Helix Mobile,Consumer electronics,Social,LATAM,2026-Q3,Helix Social 2026-Q3,103641.9,11154276,169807,6201,1778531.14
+Helix Mobile,Consumer electronics,Video,North America,2025-Q1,Helix Video 2025-Q1,121682.09,10200601,99789,1907,522772.46
+Helix Mobile,Consumer electronics,Video,North America,2025-Q2,Helix Video 2025-Q2,123032.58,8667964,63702,1703,502254.87
+Helix Mobile,Consumer electronics,Video,North America,2025-Q3,Helix Video 2025-Q3,117789.85,9170512,91333,1995,541558.8
+Helix Mobile,Consumer electronics,Video,North America,2025-Q4,Helix Video 2025-Q4,130882.85,12569229,90639,2526,779641.87
+Helix Mobile,Consumer electronics,Video,North America,2026-Q1,Helix Video 2026-Q1,146874.73,12026466,103358,2607,687636.73
+Helix Mobile,Consumer electronics,Video,North America,2026-Q2,Helix Video 2026-Q2,103693.21,8529837,74340,1856,470552.31
+Helix Mobile,Consumer electronics,Video,North America,2026-Q3,Helix Video 2026-Q3,159148.88,13342046,122849,3296,986849.17
+Helix Mobile,Consumer electronics,Video,Europe,2025-Q1,Helix Video 2025-Q1,124945.58,8901736,83190,2286,644669.22
+Helix Mobile,Consumer electronics,Video,Europe,2025-Q2,Helix Video 2025-Q2,92352.1,8883477,58184,1082,280687.99
+Helix Mobile,Consumer electronics,Video,Europe,2025-Q3,Helix Video 2025-Q3,128814.28,11723696,99582,1872,538519.51
+Helix Mobile,Consumer electronics,Video,Europe,2025-Q4,Helix Video 2025-Q4,159209.02,12202664,79516,1718,544522.1
+Helix Mobile,Consumer electronics,Video,Europe,2026-Q1,Helix Video 2026-Q1,128423.19,9436867,83268,2058,522991.45
+Helix Mobile,Consumer electronics,Video,Europe,2026-Q2,Helix Video 2026-Q2,133005.0,12830044,119884,3397,1052215.99
+Helix Mobile,Consumer electronics,Video,Europe,2026-Q3,Helix Video 2026-Q3,95459.64,8213438,62356,1220,354604.0
+Helix Mobile,Consumer electronics,Video,APAC,2025-Q1,Helix Video 2025-Q1,128562.68,11162250,106772,2845,708101.64
+Helix Mobile,Consumer electronics,Video,APAC,2025-Q2,Helix Video 2025-Q2,108916.32,7831758,56033,1363,397729.52
+Helix Mobile,Consumer electronics,Video,APAC,2025-Q3,Helix Video 2025-Q3,98442.8,9283350,82019,2045,628432.84
+Helix Mobile,Consumer electronics,Video,APAC,2025-Q4,Helix Video 2025-Q4,126344.52,10916136,98852,2706,847064.13
+Helix Mobile,Consumer electronics,Video,APAC,2026-Q1,Helix Video 2026-Q1,108046.9,10477630,92177,1900,542417.68
+Helix Mobile,Consumer electronics,Video,APAC,2026-Q2,Helix Video 2026-Q2,150337.39,12747865,93769,2168,635793.46
+Helix Mobile,Consumer electronics,Video,APAC,2026-Q3,Helix Video 2026-Q3,150866.29,12786951,88542,2236,688241.34
+Helix Mobile,Consumer electronics,Video,LATAM,2025-Q1,Helix Video 2025-Q1,61167.37,5200758,43657,900,233025.68
+Helix Mobile,Consumer electronics,Video,LATAM,2025-Q2,Helix Video 2025-Q2,55901.58,4611889,31062,813,233198.1
+Helix Mobile,Consumer electronics,Video,LATAM,2025-Q3,Helix Video 2025-Q3,54996.56,5224980,48093,950,236773.93
+Helix Mobile,Consumer electronics,Video,LATAM,2025-Q4,Helix Video 2025-Q4,84454.33,8011755,77901,1650,435293.84
+Helix Mobile,Consumer electronics,Video,LATAM,2026-Q1,Helix Video 2026-Q1,75770.86,5917897,42123,964,301206.42
+Helix Mobile,Consumer electronics,Video,LATAM,2026-Q2,Helix Video 2026-Q2,71090.13,5391455,36611,949,287838.43
+Helix Mobile,Consumer electronics,Video,LATAM,2026-Q3,Helix Video 2026-Q3,84246.04,6464728,50314,959,270097.91
+Helix Mobile,Consumer electronics,Search,North America,2025-Q1,Helix Search 2025-Q1,131779.74,3676792,198123,14244,4463135.96
+Helix Mobile,Consumer electronics,Search,North America,2025-Q2,Helix Search 2025-Q2,164601.64,4736629,284288,19600,5851871.06
+Helix Mobile,Consumer electronics,Search,North America,2025-Q3,Helix Search 2025-Q3,225095.79,5025458,306713,22303,6048379.4
+Helix Mobile,Consumer electronics,Search,North America,2025-Q4,Helix Search 2025-Q4,227142.45,6535885,386184,27869,8321452.06
+Helix Mobile,Consumer electronics,Search,North America,2026-Q1,Helix Search 2026-Q1,198984.79,5330454,272788,14061,4344054.53
+Helix Mobile,Consumer electronics,Search,North America,2026-Q2,Helix Search 2026-Q2,203154.57,5424109,293781,20899,5643769.46
+Helix Mobile,Consumer electronics,Search,North America,2026-Q3,Helix Search 2026-Q3,223537.83,5020065,253123,13800,4166109.99
+Helix Mobile,Consumer electronics,Search,Europe,2025-Q1,Helix Search 2025-Q1,96070.65,2803489,162592,12046,3798629.1
+Helix Mobile,Consumer electronics,Search,Europe,2025-Q2,Helix Search 2025-Q2,146240.58,3218415,141993,7899,2261572.06
+Helix Mobile,Consumer electronics,Search,Europe,2025-Q3,Helix Search 2025-Q3,140527.22,3323711,152350,11674,2991443.08
+Helix Mobile,Consumer electronics,Search,Europe,2025-Q4,Helix Search 2025-Q4,166865.09,5026189,263494,13577,3589220.52
+Helix Mobile,Consumer electronics,Search,Europe,2026-Q1,Helix Search 2026-Q1,118015.2,2818431,146547,7652,2461004.43
+Helix Mobile,Consumer electronics,Search,Europe,2026-Q2,Helix Search 2026-Q2,155446.03,3494181,164723,10182,2617812.92
+Helix Mobile,Consumer electronics,Search,Europe,2026-Q3,Helix Search 2026-Q3,119772.85,3071541,135969,7562,2346447.09
+Helix Mobile,Consumer electronics,Search,APAC,2025-Q1,Helix Search 2025-Q1,123425.94,3552514,202491,11778,3324591.36
+Helix Mobile,Consumer electronics,Search,APAC,2025-Q2,Helix Search 2025-Q2,156425.64,3994021,223812,14740,3998138.05
+Helix Mobile,Consumer electronics,Search,APAC,2025-Q3,Helix Search 2025-Q3,167228.35,3807851,173550,9454,2340188.3
+Helix Mobile,Consumer electronics,Search,APAC,2025-Q4,Helix Search 2025-Q4,210874.06,4704577,220040,17208,4396031.23
+Helix Mobile,Consumer electronics,Search,APAC,2026-Q1,Helix Search 2026-Q1,157725.32,4053049,254154,13153,3478938.44
+Helix Mobile,Consumer electronics,Search,APAC,2026-Q2,Helix Search 2026-Q2,250584.04,7551557,354233,22613,7055124.17
+Helix Mobile,Consumer electronics,Search,APAC,2026-Q3,Helix Search 2026-Q3,166523.91,3843559,227244,16076,4973519.4
+Helix Mobile,Consumer electronics,Search,LATAM,2025-Q1,Helix Search 2025-Q1,96843.79,2301170,111433,6170,1860617.02
+Helix Mobile,Consumer electronics,Search,LATAM,2025-Q2,Helix Search 2025-Q2,76814.61,1725055,95385,5720,1811685.85
+Helix Mobile,Consumer electronics,Search,LATAM,2025-Q3,Helix Search 2025-Q3,81983.45,2094492,91177,7119,2038396.44
+Helix Mobile,Consumer electronics,Search,LATAM,2025-Q4,Helix Search 2025-Q4,112753.32,3127730,187888,13265,3874532.13
+Helix Mobile,Consumer electronics,Search,LATAM,2026-Q1,Helix Search 2026-Q1,72359.64,1900927,97073,6824,2102845.8
+Helix Mobile,Consumer electronics,Search,LATAM,2026-Q2,Helix Search 2026-Q2,118179.47,2867985,132695,8798,2662396.89
+Helix Mobile,Consumer electronics,Search,LATAM,2026-Q3,Helix Search 2026-Q3,77976.91,1857464,77566,6040,1675485.81
+Helix Mobile,Consumer electronics,TV,North America,2025-Q1,Helix TV 2025-Q1,89440.51,3935013,4086,47,13484.72
+Helix Mobile,Consumer electronics,TV,North America,2025-Q2,Helix TV 2025-Q2,132247.98,5110583,3845,53,15500.23
+Helix Mobile,Consumer electronics,TV,North America,2025-Q3,Helix TV 2025-Q3,116399.57,6040129,5928,73,18735.15
+Helix Mobile,Consumer electronics,TV,North America,2025-Q4,Helix TV 2025-Q4,163623.06,8090785,7476,117,34909.24
+Helix Mobile,Consumer electronics,TV,North America,2026-Q1,Helix TV 2026-Q1,114064.74,4578292,4252,63,19429.35
+Helix Mobile,Consumer electronics,TV,North America,2026-Q2,Helix TV 2026-Q2,150172.04,6351896,5742,83,22600.83
+Helix Mobile,Consumer electronics,TV,North America,2026-Q3,Helix TV 2026-Q3,160830.0,7435742,6909,108,30466.73
+Helix Mobile,Consumer electronics,TV,Europe,2025-Q1,Helix TV 2025-Q1,114869.53,4582590,4095,66,20273.87
+Helix Mobile,Consumer electronics,TV,Europe,2025-Q2,Helix TV 2025-Q2,81954.61,3388057,2541,34,10615.79
+Helix Mobile,Consumer electronics,TV,Europe,2025-Q3,Helix TV 2025-Q3,77944.01,3389568,3427,52,15001.01
+Helix Mobile,Consumer electronics,TV,Europe,2025-Q4,Helix TV 2025-Q4,114179.01,5676925,4865,62,17156.18
+Helix Mobile,Consumer electronics,TV,Europe,2026-Q1,Helix TV 2026-Q1,91346.46,4124958,3670,53,17080.8
+Helix Mobile,Consumer electronics,TV,Europe,2026-Q2,Helix TV 2026-Q2,117093.84,5420015,4588,75,21198.65
+Helix Mobile,Consumer electronics,TV,Europe,2026-Q3,Helix TV 2026-Q3,95738.42,4969721,5440,70,19746.29
+Helix Mobile,Consumer electronics,TV,APAC,2025-Q1,Helix TV 2025-Q1,85525.03,3898866,4206,68,18904.16
+Helix Mobile,Consumer electronics,TV,APAC,2025-Q2,Helix TV 2025-Q2,105083.16,4727701,4210,60,15487.26
+Helix Mobile,Consumer electronics,TV,APAC,2025-Q3,Helix TV 2025-Q3,139134.4,5763580,6080,69,20750.47
+Helix Mobile,Consumer electronics,TV,APAC,2025-Q4,Helix TV 2025-Q4,190628.72,8614823,6563,100,25943.4
+Helix Mobile,Consumer electronics,TV,APAC,2026-Q1,Helix TV 2026-Q1,114026.82,5279020,5277,66,18552.45
+Helix Mobile,Consumer electronics,TV,APAC,2026-Q2,Helix TV 2026-Q2,124576.67,5287903,4336,73,19353.04
+Helix Mobile,Consumer electronics,TV,APAC,2026-Q3,Helix TV 2026-Q3,113122.85,5471849,4180,57,17300.08
+Helix Mobile,Consumer electronics,TV,LATAM,2025-Q1,Helix TV 2025-Q1,50072.66,2478119,1964,25,7747.21
+Helix Mobile,Consumer electronics,TV,LATAM,2025-Q2,Helix TV 2025-Q2,54593.95,2115346,2131,31,9605.09
+Helix Mobile,Consumer electronics,TV,LATAM,2025-Q3,Helix TV 2025-Q3,64045.25,3000121,2527,34,9704.12
+Helix Mobile,Consumer electronics,TV,LATAM,2025-Q4,Helix TV 2025-Q4,78265.45,3541702,3544,42,10513.6
+Helix Mobile,Consumer electronics,TV,LATAM,2026-Q1,Helix TV 2026-Q1,62999.58,3016982,3421,38,9712.52
+Helix Mobile,Consumer electronics,TV,LATAM,2026-Q2,Helix TV 2026-Q2,71205.31,3185566,2364,32,8263.1
+Helix Mobile,Consumer electronics,TV,LATAM,2026-Q3,Helix TV 2026-Q3,70326.0,2835520,2303,34,9320.83
+Vireo Beverages,Food & beverage,TV,North America,2025-Q1,Vireo TV 2025-Q1,97340.12,3770923,3263,38,738.2
+Vireo Beverages,Food & beverage,TV,North America,2025-Q2,Vireo TV 2025-Q2,97123.37,4164332,3440,33,832.28
+Vireo Beverages,Food & beverage,TV,North America,2025-Q3,Vireo TV 2025-Q3,100527.43,5134045,3481,30,740.75
+Vireo Beverages,Food & beverage,TV,North America,2025-Q4,Vireo TV 2025-Q4,132811.69,5045743,3906,46,1075.41
+Vireo Beverages,Food & beverage,TV,North America,2026-Q1,Vireo TV 2026-Q1,95650.22,3674098,2839,29,644.22
+Vireo Beverages,Food & beverage,TV,North America,2026-Q2,Vireo TV 2026-Q2,100840.01,4153936,3326,35,864.55
+Vireo Beverages,Food & beverage,TV,North America,2026-Q3,Vireo TV 2026-Q3,110654.27,5196873,3123,28,577.53
+Vireo Beverages,Food & beverage,TV,Europe,2025-Q1,Vireo TV 2025-Q1,80738.67,3645766,3196,31,786.69
+Vireo Beverages,Food & beverage,TV,Europe,2025-Q2,Vireo TV 2025-Q2,62499.78,2473094,1747,15,361.45
+Vireo Beverages,Food & beverage,TV,Europe,2025-Q3,Vireo TV 2025-Q3,56803.95,2869306,2395,28,576.79
+Vireo Beverages,Food & beverage,TV,Europe,2025-Q4,Vireo TV 2025-Q4,93467.54,3604332,2389,28,563.28
+Vireo Beverages,Food & beverage,TV,Europe,2026-Q1,Vireo TV 2026-Q1,93740.53,4781352,3553,31,699.18
+Vireo Beverages,Food & beverage,TV,Europe,2026-Q2,Vireo TV 2026-Q2,114433.84,5913933,3931,48,1103.52
+Vireo Beverages,Food & beverage,TV,Europe,2026-Q3,Vireo TV 2026-Q3,78755.28,3345230,2419,31,640.61
+Vireo Beverages,Food & beverage,TV,APAC,2025-Q1,Vireo TV 2025-Q1,81056.17,3435356,2802,29,689.73
+Vireo Beverages,Food & beverage,TV,APAC,2025-Q2,Vireo TV 2025-Q2,70768.57,3263681,1907,25,594.89
+Vireo Beverages,Food & beverage,TV,APAC,2025-Q3,Vireo TV 2025-Q3,66106.83,2717402,1810,19,481.97
+Vireo Beverages,Food & beverage,TV,APAC,2025-Q4,Vireo TV 2025-Q4,134639.5,6436645,4344,39,789.1
+Vireo Beverages,Food & beverage,TV,APAC,2026-Q1,Vireo TV 2026-Q1,88137.39,4399860,2624,28,575.57
+Vireo Beverages,Food & beverage,TV,APAC,2026-Q2,Vireo TV 2026-Q2,83531.91,3237236,2150,24,541.55
+Vireo Beverages,Food & beverage,TV,APAC,2026-Q3,Vireo TV 2026-Q3,91650.03,4661387,4021,44,1056.7
+Vireo Beverages,Food & beverage,TV,LATAM,2025-Q1,Vireo TV 2025-Q1,41972.58,1802941,1543,19,371.87
+Vireo Beverages,Food & beverage,TV,LATAM,2025-Q2,Vireo TV 2025-Q2,48667.94,2259281,1857,16,341.73
+Vireo Beverages,Food & beverage,TV,LATAM,2025-Q3,Vireo TV 2025-Q3,52271.87,2342393,1693,22,470.3
+Vireo Beverages,Food & beverage,TV,LATAM,2025-Q4,Vireo TV 2025-Q4,54129.54,2492157,1559,14,316.36
+Vireo Beverages,Food & beverage,TV,LATAM,2026-Q1,Vireo TV 2026-Q1,55928.37,2414719,1897,19,435.35
+Vireo Beverages,Food & beverage,TV,LATAM,2026-Q2,Vireo TV 2026-Q2,52404.2,2255157,1885,21,426.87
+Vireo Beverages,Food & beverage,TV,LATAM,2026-Q3,Vireo TV 2026-Q3,40699.1,1810441,1140,13,319.98
+Vireo Beverages,Food & beverage,Video,North America,2025-Q1,Vireo Video 2025-Q1,55813.15,4202327,25981,430,9117.81
+Vireo Beverages,Food & beverage,Video,North America,2025-Q2,Vireo Video 2025-Q2,55277.17,4224800,27990,427,10297.74
+Vireo Beverages,Food & beverage,Video,North America,2025-Q3,Vireo Video 2025-Q3,57675.81,5428092,31197,493,11985.26
+Vireo Beverages,Food & beverage,Video,North America,2025-Q4,Vireo Video 2025-Q4,64762.72,6235608,37303,595,12977.8
+Vireo Beverages,Food & beverage,Video,North America,2026-Q1,Vireo Video 2026-Q1,59045.14,5626172,31087,570,12637.17
+Vireo Beverages,Food & beverage,Video,North America,2026-Q2,Vireo Video 2026-Q2,37559.63,3120016,16973,293,7379.05
+Vireo Beverages,Food & beverage,Video,North America,2026-Q3,Vireo Video 2026-Q3,58866.33,5507369,40376,683,16296.91
+Vireo Beverages,Food & beverage,Video,Europe,2025-Q1,Vireo Video 2025-Q1,39846.83,2875089,15813,286,6599.4
+Vireo Beverages,Food & beverage,Video,Europe,2025-Q2,Vireo Video 2025-Q2,39668.46,3641088,19787,330,6295.37
+Vireo Beverages,Food & beverage,Video,Europe,2025-Q3,Vireo Video 2025-Q3,30781.92,2864382,18210,314,7106.57
+Vireo Beverages,Food & beverage,Video,Europe,2025-Q4,Vireo Video 2025-Q4,60920.54,5890352,35216,722,14731.5
+Vireo Beverages,Food & beverage,Video,Europe,2026-Q1,Vireo Video 2026-Q1,41951.76,3137543,19430,419,10384.62
+Vireo Beverages,Food & beverage,Video,Europe,2026-Q2,Vireo Video 2026-Q2,42573.87,3203198,18442,286,6183.76
+Vireo Beverages,Food & beverage,Video,Europe,2026-Q3,Vireo Video 2026-Q3,53277.86,3770687,20563,414,9057.94
+Vireo Beverages,Food & beverage,Video,APAC,2025-Q1,Vireo Video 2025-Q1,45170.35,3162046,22173,342,8450.92
+Vireo Beverages,Food & beverage,Video,APAC,2025-Q2,Vireo Video 2025-Q2,59519.47,5620787,33612,739,13987.55
+Vireo Beverages,Food & beverage,Video,APAC,2025-Q3,Vireo Video 2025-Q3,52286.4,4094866,21416,407,8844.04
+Vireo Beverages,Food & beverage,Video,APAC,2025-Q4,Vireo Video 2025-Q4,53543.62,4026969,28043,630,12439.25
+Vireo Beverages,Food & beverage,Video,APAC,2026-Q1,Vireo Video 2026-Q1,37982.5,3184690,23123,499,12623.55
+Vireo Beverages,Food & beverage,Video,APAC,2026-Q2,Vireo Video 2026-Q2,49419.51,4083467,31494,694,14702.48
+Vireo Beverages,Food & beverage,Video,APAC,2026-Q3,Vireo Video 2026-Q3,57065.98,4793549,29252,600,13097.17
+Vireo Beverages,Food & beverage,Video,LATAM,2025-Q1,Vireo Video 2025-Q1,27830.95,2354225,14753,229,4377.72
+Vireo Beverages,Food & beverage,Video,LATAM,2025-Q2,Vireo Video 2025-Q2,25459.9,2025304,14065,293,5943.3
+Vireo Beverages,Food & beverage,Video,LATAM,2025-Q3,Vireo Video 2025-Q3,20037.9,1762779,10403,213,4528.34
+Vireo Beverages,Food & beverage,Video,LATAM,2025-Q4,Vireo Video 2025-Q4,45000.03,3495835,19468,297,6923.25
+Vireo Beverages,Food & beverage,Video,LATAM,2026-Q1,Vireo Video 2026-Q1,27188.56,2375639,16256,238,5098.25
+Vireo Beverages,Food & beverage,Video,LATAM,2026-Q2,Vireo Video 2026-Q2,24980.09,2217621,13366,258,5839.55
+Vireo Beverages,Food & beverage,Video,LATAM,2026-Q3,Vireo Video 2026-Q3,26962.42,2047626,10784,240,4808.72
+Vireo Beverages,Food & beverage,Social,North America,2025-Q1,Vireo Social 2025-Q1,47251.88,4386048,40337,1090,27511.69
+Vireo Beverages,Food & beverage,Social,North America,2025-Q2,Vireo Social 2025-Q2,53885.81,6923169,70906,1912,44640.58
+Vireo Beverages,Food & beverage,Social,North America,2025-Q3,Vireo Social 2025-Q3,69026.53,7949697,63113,1297,28975.54
+Vireo Beverages,Food & beverage,Social,North America,2025-Q4,Vireo Social 2025-Q4,69357.01,8368551,78703,1649,31182.88
+Vireo Beverages,Food & beverage,Social,North America,2026-Q1,Vireo Social 2026-Q1,78144.07,8662551,76514,2157,40474.69
+Vireo Beverages,Food & beverage,Social,North America,2026-Q2,Vireo Social 2026-Q2,102206.12,9573123,114104,3123,60324.79
+Vireo Beverages,Food & beverage,Social,North America,2026-Q3,Vireo Social 2026-Q3,83670.77,10812988,96197,1967,38422.57
+Vireo Beverages,Food & beverage,Social,Europe,2025-Q1,Vireo Social 2025-Q1,45980.98,5771867,49718,1511,31608.0
+Vireo Beverages,Food & beverage,Social,Europe,2025-Q2,Vireo Social 2025-Q2,54287.39,6852220,78566,2186,48783.61
+Vireo Beverages,Food & beverage,Social,Europe,2025-Q3,Vireo Social 2025-Q3,65977.53,8282183,75199,2013,50312.45
+Vireo Beverages,Food & beverage,Social,Europe,2025-Q4,Vireo Social 2025-Q4,56918.02,5887083,60232,1224,30099.79
+Vireo Beverages,Food & beverage,Social,Europe,2026-Q1,Vireo Social 2026-Q1,41316.39,5128263,56450,1657,39609.79
+Vireo Beverages,Food & beverage,Social,Europe,2026-Q2,Vireo Social 2026-Q2,58907.32,7177057,57971,1728,43473.75
+Vireo Beverages,Food & beverage,Social,Europe,2026-Q3,Vireo Social 2026-Q3,81627.94,7865372,76398,1809,39880.03
+Vireo Beverages,Food & beverage,Social,APAC,2025-Q1,Vireo Social 2025-Q1,51659.45,5711665,50314,1420,31282.48
+Vireo Beverages,Food & beverage,Social,APAC,2025-Q2,Vireo Social 2025-Q2,67315.47,6426640,59968,1399,34848.27
+Vireo Beverages,Food & beverage,Social,APAC,2025-Q3,Vireo Social 2025-Q3,54154.93,6808495,55315,1736,39108.45
+Vireo Beverages,Food & beverage,Social,APAC,2025-Q4,Vireo Social 2025-Q4,78567.86,8484233,86248,2164,54068.71
+Vireo Beverages,Food & beverage,Social,APAC,2026-Q1,Vireo Social 2026-Q1,50267.22,6249305,53718,1331,32220.98
+Vireo Beverages,Food & beverage,Social,APAC,2026-Q2,Vireo Social 2026-Q2,45805.66,4604063,48279,1088,26225.64
+Vireo Beverages,Food & beverage,Social,APAC,2026-Q3,Vireo Social 2026-Q3,59513.7,6041862,53082,1353,34026.92
+Vireo Beverages,Food & beverage,Social,LATAM,2025-Q1,Vireo Social 2025-Q1,26092.02,3332574,32759,905,17276.09
+Vireo Beverages,Food & beverage,Social,LATAM,2025-Q2,Vireo Social 2025-Q2,28856.29,3743798,38658,946,20848.03
+Vireo Beverages,Food & beverage,Social,LATAM,2025-Q3,Vireo Social 2025-Q3,27000.0,2778079,24144,734,18401.74
+Vireo Beverages,Food & beverage,Social,LATAM,2025-Q4,Vireo Social 2025-Q4,47782.3,5241598,61586,1444,34656.89
+Vireo Beverages,Food & beverage,Social,LATAM,2026-Q1,Vireo Social 2026-Q1,29948.42,3019636,28408,766,19026.19
+Vireo Beverages,Food & beverage,Social,LATAM,2026-Q2,Vireo Social 2026-Q2,36813.98,3611744,37323,912,19181.3
+Vireo Beverages,Food & beverage,Social,LATAM,2026-Q3,Vireo Social 2026-Q3,37841.41,4470922,47821,1017,23511.1
+Vireo Beverages,Food & beverage,OOH,North America,2025-Q1,Vireo OOH 2025-Q1,118543.73,6805615,2849,18,453.23
+Vireo Beverages,Food & beverage,OOH,North America,2025-Q2,Vireo OOH 2025-Q2,87180.48,5035692,2166,16,372.94
+Vireo Beverages,Food & beverage,OOH,North America,2025-Q3,Vireo OOH 2025-Q3,127228.18,8220356,2754,16,332.07
+Vireo Beverages,Food & beverage,OOH,North America,2025-Q4,Vireo OOH 2025-Q4,151075.72,8587449,2670,15,316.76
+Vireo Beverages,Food & beverage,OOH,North America,2026-Q1,Vireo OOH 2026-Q1,113960.69,8293907,3172,22,486.94
+Vireo Beverages,Food & beverage,OOH,North America,2026-Q2,Vireo OOH 2026-Q2,99676.39,6138052,2055,14,315.47
+Vireo Beverages,Food & beverage,OOH,North America,2026-Q3,Vireo OOH 2026-Q3,127339.9,9067618,3667,24,610.13
+Vireo Beverages,Food & beverage,OOH,Europe,2025-Q1,Vireo OOH 2025-Q1,86321.16,5604505,2410,19,369.82
+Vireo Beverages,Food & beverage,OOH,Europe,2025-Q2,Vireo OOH 2025-Q2,78929.68,4396866,1287,8,216.95
+Vireo Beverages,Food & beverage,OOH,Europe,2025-Q3,Vireo OOH 2025-Q3,81387.3,5985531,1930,11,254.39
+Vireo Beverages,Food & beverage,OOH,Europe,2025-Q4,Vireo OOH 2025-Q4,75481.33,5234057,1599,13,322.11
+Vireo Beverages,Food & beverage,OOH,Europe,2026-Q1,Vireo OOH 2026-Q1,70169.75,5208119,1957,15,328.61
+Vireo Beverages,Food & beverage,OOH,Europe,2026-Q2,Vireo OOH 2026-Q2,126911.95,8576442,3179,19,437.0
+Vireo Beverages,Food & beverage,OOH,Europe,2026-Q3,Vireo OOH 2026-Q3,91161.82,5495282,1811,16,381.21
+Vireo Beverages,Food & beverage,OOH,APAC,2025-Q1,Vireo OOH 2025-Q1,85112.29,5701417,2361,14,342.64
+Vireo Beverages,Food & beverage,OOH,APAC,2025-Q2,Vireo OOH 2025-Q2,72134.4,4665636,2003,14,317.46
+Vireo Beverages,Food & beverage,OOH,APAC,2025-Q3,Vireo OOH 2025-Q3,81391.89,4630669,1570,12,269.38
+Vireo Beverages,Food & beverage,OOH,APAC,2025-Q4,Vireo OOH 2025-Q4,143801.55,8112104,2375,21,484.25
+Vireo Beverages,Food & beverage,OOH,APAC,2026-Q1,Vireo OOH 2026-Q1,89101.52,5801102,1717,12,257.92
+Vireo Beverages,Food & beverage,OOH,APAC,2026-Q2,Vireo OOH 2026-Q2,145685.74,10152546,3914,32,820.5
+Vireo Beverages,Food & beverage,OOH,APAC,2026-Q3,Vireo OOH 2026-Q3,93725.29,5954262,1720,11,300.11
+Vireo Beverages,Food & beverage,OOH,LATAM,2025-Q1,Vireo OOH 2025-Q1,32349.78,1868137,735,4,117.67
+Vireo Beverages,Food & beverage,OOH,LATAM,2025-Q2,Vireo OOH 2025-Q2,53946.47,3091881,931,5,135.45
+Vireo Beverages,Food & beverage,OOH,LATAM,2025-Q3,Vireo OOH 2025-Q3,46528.5,3440393,1276,8,191.65
+Vireo Beverages,Food & beverage,OOH,LATAM,2025-Q4,Vireo OOH 2025-Q4,78575.37,4555514,1355,10,262.24
+Vireo Beverages,Food & beverage,OOH,LATAM,2026-Q1,Vireo OOH 2026-Q1,43144.92,2569645,780,6,151.14
+Vireo Beverages,Food & beverage,OOH,LATAM,2026-Q2,Vireo OOH 2026-Q2,60169.02,3564015,1528,9,212.83
+Vireo Beverages,Food & beverage,OOH,LATAM,2026-Q3,Vireo OOH 2026-Q3,68102.17,4814403,1639,12,287.54
+Stride Athletics,Apparel,Social,North America,2025-Q1,Stride Social 2025-Q1,68379.1,7778919,104950,3231,308141.24
+Stride Athletics,Apparel,Social,North America,2025-Q2,Stride Social 2025-Q2,57064.38,5874788,63133,1557,146304.93
+Stride Athletics,Apparel,Social,North America,2025-Q3,Stride Social 2025-Q3,60509.0,6346557,60400,1772,162537.45
+Stride Athletics,Apparel,Social,North America,2025-Q4,Stride Social 2025-Q4,68043.6,7162899,101602,2844,262745.24
+Stride Athletics,Apparel,Social,North America,2026-Q1,Stride Social 2026-Q1,44444.53,4256270,54949,1634,169954.85
+Stride Athletics,Apparel,Social,North America,2026-Q2,Stride Social 2026-Q2,57290.14,5361686,57414,1447,151106.71
+Stride Athletics,Apparel,Social,North America,2026-Q3,Stride Social 2026-Q3,81857.87,7932504,98421,2977,247826.95
+Stride Athletics,Apparel,Social,Europe,2025-Q1,Stride Social 2025-Q1,50676.95,6449368,91944,3229,288650.83
+Stride Athletics,Apparel,Social,Europe,2025-Q2,Stride Social 2025-Q2,46195.96,4424954,51922,1306,124109.73
+Stride Athletics,Apparel,Social,Europe,2025-Q3,Stride Social 2025-Q3,41277.83,4619955,58061,2068,214275.42
+Stride Athletics,Apparel,Social,Europe,2025-Q4,Stride Social 2025-Q4,56708.82,6195243,73084,2675,222686.76
+Stride Athletics,Apparel,Social,Europe,2026-Q1,Stride Social 2026-Q1,51462.25,4887090,55287,1491,144099.38
+Stride Athletics,Apparel,Social,Europe,2026-Q2,Stride Social 2026-Q2,47246.56,4469746,43270,1136,94451.98
+Stride Athletics,Apparel,Social,Europe,2026-Q3,Stride Social 2026-Q3,36520.89,4259792,59290,2095,225132.95
+Stride Athletics,Apparel,Social,APAC,2025-Q1,Stride Social 2025-Q1,50460.24,6594327,74216,2690,275840.83
+Stride Athletics,Apparel,Social,APAC,2025-Q2,Stride Social 2025-Q2,45052.05,4567735,63977,2323,235071.44
+Stride Athletics,Apparel,Social,APAC,2025-Q3,Stride Social 2025-Q3,49498.54,4805048,53347,1324,134428.7
+Stride Athletics,Apparel,Social,APAC,2025-Q4,Stride Social 2025-Q4,67882.42,7661476,110442,3415,326593.4
+Stride Athletics,Apparel,Social,APAC,2026-Q1,Stride Social 2026-Q1,52191.23,6108005,88166,3137,285887.48
+Stride Athletics,Apparel,Social,APAC,2026-Q2,Stride Social 2026-Q2,50384.12,6259927,87632,2276,184414.16
+Stride Athletics,Apparel,Social,APAC,2026-Q3,Stride Social 2026-Q3,58877.61,6175500,78626,2611,214087.85
+Stride Athletics,Apparel,Social,LATAM,2025-Q1,Stride Social 2025-Q1,31609.33,3426676,32557,982,100004.75
+Stride Athletics,Apparel,Social,LATAM,2025-Q2,Stride Social 2025-Q2,25003.08,2606540,24713,658,70030.96
+Stride Athletics,Apparel,Social,LATAM,2025-Q3,Stride Social 2025-Q3,22871.22,2451454,23289,837,71692.54
+Stride Athletics,Apparel,Social,LATAM,2025-Q4,Stride Social 2025-Q4,36433.37,3887320,50438,1811,184334.6
+Stride Athletics,Apparel,Social,LATAM,2026-Q1,Stride Social 2026-Q1,39488.17,5006538,64668,2353,191148.73
+Stride Athletics,Apparel,Social,LATAM,2026-Q2,Stride Social 2026-Q2,34767.84,4237476,49284,1499,147386.43
+Stride Athletics,Apparel,Social,LATAM,2026-Q3,Stride Social 2026-Q3,43891.47,4471731,50438,1663,156450.66
+Stride Athletics,Apparel,Search,North America,2025-Q1,Stride Search 2025-Q1,57886.96,1489540,65210,3422,290889.11
+Stride Athletics,Apparel,Search,North America,2025-Q2,Stride Search 2025-Q2,115010.83,3177061,176630,12052,1091341.87
+Stride Athletics,Apparel,Search,North America,2025-Q3,Stride Search 2025-Q3,76558.49,1728164,78522,4759,444512.09
+Stride Athletics,Apparel,Search,North America,2025-Q4,Stride Search 2025-Q4,112727.52,2501445,101927,7266,724611.29
+Stride Athletics,Apparel,Search,North America,2026-Q1,Stride Search 2026-Q1,107621.34,2641201,148713,8131,820692.53
+Stride Athletics,Apparel,Search,North America,2026-Q2,Stride Search 2026-Q2,103465.97,2648549,138493,7122,587536.04
+Stride Athletics,Apparel,Search,North America,2026-Q3,Stride Search 2026-Q3,114134.92,2650664,137711,7512,747565.37
+Stride Athletics,Apparel,Search,Europe,2025-Q1,Stride Search 2025-Q1,92700.77,2254868,112859,7024,656697.32
+Stride Athletics,Apparel,Search,Europe,2025-Q2,Stride Search 2025-Q2,56819.86,1354331,64559,4233,385765.41
+Stride Athletics,Apparel,Search,Europe,2025-Q3,Stride Search 2025-Q3,95447.53,2415495,123290,8649,917277.52
+Stride Athletics,Apparel,Search,Europe,2025-Q4,Stride Search 2025-Q4,94968.2,2231108,96734,6221,569702.75
+Stride Athletics,Apparel,Search,Europe,2026-Q1,Stride Search 2026-Q1,108379.66,2793709,137116,8809,871515.16
+Stride Athletics,Apparel,Search,Europe,2026-Q2,Stride Search 2026-Q2,97192.7,2598164,135629,7483,733861.8
+Stride Athletics,Apparel,Search,Europe,2026-Q3,Stride Search 2026-Q3,77209.08,1940647,74080,4382,381382.51
+Stride Athletics,Apparel,Search,APAC,2025-Q1,Stride Search 2025-Q1,84369.18,2535043,131232,9110,827717.74
+Stride Athletics,Apparel,Search,APAC,2025-Q2,Stride Search 2025-Q2,108058.83,2664858,107929,7487,630721.35
+Stride Athletics,Apparel,Search,APAC,2025-Q3,Stride Search 2025-Q3,100849.17,2593925,104551,5696,504668.48
+Stride Athletics,Apparel,Search,APAC,2025-Q4,Stride Search 2025-Q4,92761.13,2042412,92960,6204,525869.79
+Stride Athletics,Apparel,Search,APAC,2026-Q1,Stride Search 2026-Q1,106982.96,2811265,123491,8342,851116.41
+Stride Athletics,Apparel,Search,APAC,2026-Q2,Stride Search 2026-Q2,95046.97,2626403,145042,10441,1025164.1
+Stride Athletics,Apparel,Search,APAC,2026-Q3,Stride Search 2026-Q3,69366.17,1528220,81829,5151,448474.01
+Stride Athletics,Apparel,Search,LATAM,2025-Q1,Stride Search 2025-Q1,64651.37,1592662,91574,4949,455380.34
+Stride Athletics,Apparel,Search,LATAM,2025-Q2,Stride Search 2025-Q2,43747.0,1052458,49709,3327,290817.66
+Stride Athletics,Apparel,Search,LATAM,2025-Q3,Stride Search 2025-Q3,50768.02,1230676,58669,2998,276522.68
+Stride Athletics,Apparel,Search,LATAM,2025-Q4,Stride Search 2025-Q4,68268.74,1960834,77873,4534,396452.1
+Stride Athletics,Apparel,Search,LATAM,2026-Q1,Stride Search 2026-Q1,47932.21,1110329,64286,4373,433812.32
+Stride Athletics,Apparel,Search,LATAM,2026-Q2,Stride Search 2026-Q2,59793.37,1382633,73668,4833,486361.37
+Stride Athletics,Apparel,Search,LATAM,2026-Q3,Stride Search 2026-Q3,63900.78,1762229,91808,5475,494892.15
+Stride Athletics,Apparel,Video,North America,2025-Q1,Stride Video 2025-Q1,72882.65,5942594,42189,876,92088.1
+Stride Athletics,Apparel,Video,North America,2025-Q2,Stride Video 2025-Q2,72461.78,5549631,50694,956,91036.81
+Stride Athletics,Apparel,Video,North America,2025-Q3,Stride Video 2025-Q3,70828.89,5977261,53934,949,97216.83
+Stride Athletics,Apparel,Video,North America,2025-Q4,Stride Video 2025-Q4,94723.37,7677633,65398,1371,124540.01
+Stride Athletics,Apparel,Video,North America,2026-Q1,Stride Video 2026-Q1,92550.15,8399964,57934,1140,124221.79
+Stride Athletics,Apparel,Video,North America,2026-Q2,Stride Video 2026-Q2,76852.47,6885652,61890,1120,121355.69
+Stride Athletics,Apparel,Video,North America,2026-Q3,Stride Video 2026-Q3,86450.15,6692407,48820,911,76336.59
+Stride Athletics,Apparel,Video,Europe,2025-Q1,Stride Video 2025-Q1,86168.47,7386040,53376,1362,130858.31
+Stride Athletics,Apparel,Video,Europe,2025-Q2,Stride Video 2025-Q2,91588.13,6923948,44063,970,82798.42
+Stride Athletics,Apparel,Video,Europe,2025-Q3,Stride Video 2025-Q3,73988.77,5223754,36552,679,56847.41
+Stride Athletics,Apparel,Video,Europe,2025-Q4,Stride Video 2025-Q4,83657.61,6892874,40796,961,84639.43
+Stride Athletics,Apparel,Video,Europe,2026-Q1,Stride Video 2026-Q1,80985.27,6609885,50575,1068,106833.79
+Stride Athletics,Apparel,Video,Europe,2026-Q2,Stride Video 2026-Q2,104521.02,7713121,47116,1011,88463.92
+Stride Athletics,Apparel,Video,Europe,2026-Q3,Stride Video 2026-Q3,103719.1,9412120,63067,1631,166379.47
+Stride Athletics,Apparel,Video,APAC,2025-Q1,Stride Video 2025-Q1,61960.24,4717167,32661,669,62464.53
+Stride Athletics,Apparel,Video,APAC,2025-Q2,Stride Video 2025-Q2,67973.77,5678649,47874,838,74322.65
+Stride Athletics,Apparel,Video,APAC,2025-Q3,Stride Video 2025-Q3,120808.85,9264380,74267,1756,147106.7
+Stride Athletics,Apparel,Video,APAC,2025-Q4,Stride Video 2025-Q4,129436.01,11257540,76682,1835,200212.8
+Stride Athletics,Apparel,Video,APAC,2026-Q1,Stride Video 2026-Q1,78868.54,7628406,52363,1277,136766.77
+Stride Athletics,Apparel,Video,APAC,2026-Q2,Stride Video 2026-Q2,77951.7,6682497,47142,1074,113196.33
+Stride Athletics,Apparel,Video,APAC,2026-Q3,Stride Video 2026-Q3,143672.68,13060046,76913,1392,146179.38
+Stride Athletics,Apparel,Video,LATAM,2025-Q1,Stride Video 2025-Q1,35206.98,2999588,25531,588,48637.11
+Stride Athletics,Apparel,Video,LATAM,2025-Q2,Stride Video 2025-Q2,39733.09,3085332,25160,530,45647.12
+Stride Athletics,Apparel,Video,LATAM,2025-Q3,Stride Video 2025-Q3,60676.72,4990147,41181,899,74744.04
+Stride Athletics,Apparel,Video,LATAM,2025-Q4,Stride Video 2025-Q4,92135.15,8804369,57325,1071,99193.42
+Stride Athletics,Apparel,Video,LATAM,2026-Q1,Stride Video 2026-Q1,53539.45,4567151,39194,666,55773.96
+Stride Athletics,Apparel,Video,LATAM,2026-Q2,Stride Video 2026-Q2,42428.27,3409905,25000,483,46482.63
+Stride Athletics,Apparel,Video,LATAM,2026-Q3,Stride Video 2026-Q3,38116.02,2761006,23759,471,38397.26
+Stride Athletics,Apparel,Display,North America,2025-Q1,Stride Display 2025-Q1,143475.61,33214822,186157,2719,286411.54
+Stride Athletics,Apparel,Display,North America,2025-Q2,Stride Display 2025-Q2,95004.26,20746865,98766,1143,107993.47
+Stride Athletics,Apparel,Display,North America,2025-Q3,Stride Display 2025-Q3,110589.52,24718235,137147,1492,127489.44
+Stride Athletics,Apparel,Display,North America,2025-Q4,Stride Display 2025-Q4,180948.22,44694013,259823,4006,433926.79
+Stride Athletics,Apparel,Display,North America,2026-Q1,Stride Display 2026-Q1,115791.04,26630151,115972,1414,114292.1
+Stride Athletics,Apparel,Display,North America,2026-Q2,Stride Display 2026-Q2,123411.96,32592456,128693,1527,137415.91
+Stride Athletics,Apparel,Display,North America,2026-Q3,Stride Display 2026-Q3,202161.49,59319870,253240,3839,403625.04
+Stride Athletics,Apparel,Display,Europe,2025-Q1,Stride Display 2025-Q1,102487.56,24503724,104222,1567,160580.09
+Stride Athletics,Apparel,Display,Europe,2025-Q2,Stride Display 2025-Q2,104662.85,28869121,122374,1496,134983.71
+Stride Athletics,Apparel,Display,Europe,2025-Q3,Stride Display 2025-Q3,89282.5,22495375,106495,1246,114336.34
+Stride Athletics,Apparel,Display,Europe,2025-Q4,Stride Display 2025-Q4,125226.64,31884000,162487,2096,181061.21
+Stride Athletics,Apparel,Display,Europe,2026-Q1,Stride Display 2026-Q1,106863.08,25947331,123369,1742,178063.71
+Stride Athletics,Apparel,Display,Europe,2026-Q2,Stride Display 2026-Q2,178331.16,39316837,204545,2898,247005.26
+Stride Athletics,Apparel,Display,Europe,2026-Q3,Stride Display 2026-Q3,105738.27,28150022,121839,1311,120705.47
+Stride Athletics,Apparel,Display,APAC,2025-Q1,Stride Display 2025-Q1,110764.31,25641243,137710,1993,168311.7
+Stride Athletics,Apparel,Display,APAC,2025-Q2,Stride Display 2025-Q2,122512.93,26786917,103303,1154,102041.72
+Stride Athletics,Apparel,Display,APAC,2025-Q3,Stride Display 2025-Q3,157655.26,43299616,213284,2565,255098.8
+Stride Athletics,Apparel,Display,APAC,2025-Q4,Stride Display 2025-Q4,150907.7,34605371,148933,2098,213374.5
+Stride Athletics,Apparel,Display,APAC,2026-Q1,Stride Display 2026-Q1,109043.33,31192400,180658,2411,213483.52
+Stride Athletics,Apparel,Display,APAC,2026-Q2,Stride Display 2026-Q2,114824.58,27838677,135878,1560,137810.77
+Stride Athletics,Apparel,Display,APAC,2026-Q3,Stride Display 2026-Q3,188500.53,41951516,197596,2035,190558.35
+Stride Athletics,Apparel,Display,LATAM,2025-Q1,Stride Display 2025-Q1,54771.96,16027482,93879,1102,105930.32
+Stride Athletics,Apparel,Display,LATAM,2025-Q2,Stride Display 2025-Q2,81963.99,23588324,134347,2066,177889.36
+Stride Athletics,Apparel,Display,LATAM,2025-Q3,Stride Display 2025-Q3,62608.57,15958964,65999,912,94059.6
+Stride Athletics,Apparel,Display,LATAM,2025-Q4,Stride Display 2025-Q4,85971.81,19784770,75522,859,82017.8
+Stride Athletics,Apparel,Display,LATAM,2026-Q1,Stride Display 2026-Q1,94705.86,24030962,113792,1689,137558.19
+Stride Athletics,Apparel,Display,LATAM,2026-Q2,Stride Display 2026-Q2,74246.55,19508229,114921,1306,107267.93
+Stride Athletics,Apparel,Display,LATAM,2026-Q3,Stride Display 2026-Q3,71557.97,16605318,68184,1011,87379.63
+Lumen Bank,Finance,Display,North America,2025-Q1,Lumen Display 2025-Q1,62615.87,17006637,73449,882,253346.59
+Lumen Bank,Finance,Display,North America,2025-Q2,Lumen Display 2025-Q2,77703.82,18410619,72150,747,251276.19
+Lumen Bank,Finance,Display,North America,2025-Q3,Lumen Display 2025-Q3,74506.39,18190729,70920,726,218902.39
+Lumen Bank,Finance,Display,North America,2025-Q4,Lumen Display 2025-Q4,78575.5,20604915,72445,673,226561.63
+Lumen Bank,Finance,Display,North America,2026-Q1,Lumen Display 2026-Q1,53174.28,14419798,57190,548,156842.1
+Lumen Bank,Finance,Display,North America,2026-Q2,Lumen Display 2026-Q2,58998.56,14379968,60693,766,262616.92
+Lumen Bank,Finance,Display,North America,2026-Q3,Lumen Display 2026-Q3,63160.73,15663729,59139,547,192704.39
+Lumen Bank,Finance,Display,Europe,2025-Q1,Lumen Display 2025-Q1,44719.31,12129157,50935,553,160182.36
+Lumen Bank,Finance,Display,Europe,2025-Q2,Lumen Display 2025-Q2,60747.32,15289127,62475,535,185612.88
+Lumen Bank,Finance,Display,Europe,2025-Q3,Lumen Display 2025-Q3,67077.25,16974424,77815,972,338013.05
+Lumen Bank,Finance,Display,Europe,2025-Q4,Lumen Display 2025-Q4,76665.75,20572456,64079,655,176650.93
+Lumen Bank,Finance,Display,Europe,2026-Q1,Lumen Display 2026-Q1,36919.39,10822158,39178,356,94327.24
+Lumen Bank,Finance,Display,Europe,2026-Q2,Lumen Display 2026-Q2,36870.47,10514984,48463,548,163381.73
+Lumen Bank,Finance,Display,Europe,2026-Q3,Lumen Display 2026-Q3,65998.44,14615651,52936,637,223193.81
+Lumen Bank,Finance,Display,APAC,2025-Q1,Lumen Display 2025-Q1,82195.0,21116270,97348,1215,359591.6
+Lumen Bank,Finance,Display,APAC,2025-Q2,Lumen Display 2025-Q2,70055.96,15180272,63822,588,186177.04
+Lumen Bank,Finance,Display,APAC,2025-Q3,Lumen Display 2025-Q3,71099.56,15169965,55353,501,134172.6
+Lumen Bank,Finance,Display,APAC,2025-Q4,Lumen Display 2025-Q4,58447.77,12214211,41965,430,152417.43
+Lumen Bank,Finance,Display,APAC,2026-Q1,Lumen Display 2026-Q1,62617.26,16421663,73461,631,220998.11
+Lumen Bank,Finance,Display,APAC,2026-Q2,Lumen Display 2026-Q2,51119.25,14198717,57924,620,203486.04
+Lumen Bank,Finance,Display,APAC,2026-Q3,Lumen Display 2026-Q3,78709.72,19988164,69448,659,184625.63
+Lumen Bank,Finance,Display,LATAM,2025-Q1,Lumen Display 2025-Q1,32168.73,6929341,25497,289,89388.04
+Lumen Bank,Finance,Display,LATAM,2025-Q2,Lumen Display 2025-Q2,33800.77,8690382,41029,399,126643.46
+Lumen Bank,Finance,Display,LATAM,2025-Q3,Lumen Display 2025-Q3,27265.84,7143953,31807,276,91617.42
+Lumen Bank,Finance,Display,LATAM,2025-Q4,Lumen Display 2025-Q4,36566.53,7997191,37893,432,153397.77
+Lumen Bank,Finance,Display,LATAM,2026-Q1,Lumen Display 2026-Q1,32168.41,7788611,26703,228,69426.24
+Lumen Bank,Finance,Display,LATAM,2026-Q2,Lumen Display 2026-Q2,29181.2,6499405,20078,250,71815.82
+Lumen Bank,Finance,Display,LATAM,2026-Q3,Lumen Display 2026-Q3,31190.31,6831925,31421,362,106770.62
+Lumen Bank,Finance,Search,North America,2025-Q1,Lumen Search 2025-Q1,72764.33,1963832,87314,4702,1443928.13
+Lumen Bank,Finance,Search,North America,2025-Q2,Lumen Search 2025-Q2,90683.88,2423788,105453,5363,1578439.37
+Lumen Bank,Finance,Search,North America,2025-Q3,Lumen Search 2025-Q3,94153.63,2332825,92940,3692,1313418.66
+Lumen Bank,Finance,Search,North America,2025-Q4,Lumen Search 2025-Q4,141127.24,4302868,201604,9794,2695262.04
+Lumen Bank,Finance,Search,North America,2026-Q1,Lumen Search 2026-Q1,78493.62,2062450,88429,4846,1519453.5
+Lumen Bank,Finance,Search,North America,2026-Q2,Lumen Search 2026-Q2,91777.96,2122580,90307,5106,1473890.28
+Lumen Bank,Finance,Search,North America,2026-Q3,Lumen Search 2026-Q3,88330.01,2011501,73844,3399,1001221.28
+Lumen Bank,Finance,Search,Europe,2025-Q1,Lumen Search 2025-Q1,67301.21,1902254,69064,2740,917239.73
+Lumen Bank,Finance,Search,Europe,2025-Q2,Lumen Search 2025-Q2,56365.34,1414180,50201,2258,753227.02
+Lumen Bank,Finance,Search,Europe,2025-Q3,Lumen Search 2025-Q3,87527.79,2175482,82397,4047,1404206.79
+Lumen Bank,Finance,Search,Europe,2025-Q4,Lumen Search 2025-Q4,94763.93,2417229,102560,4023,1419990.45
+Lumen Bank,Finance,Search,Europe,2026-Q1,Lumen Search 2026-Q1,73459.48,1702530,70577,3999,1087047.83
+Lumen Bank,Finance,Search,Europe,2026-Q2,Lumen Search 2026-Q2,72947.09,1729405,80211,4082,1304355.69
+Lumen Bank,Finance,Search,Europe,2026-Q3,Lumen Search 2026-Q3,82449.94,2066289,82960,4682,1593929.63
+Lumen Bank,Finance,Search,APAC,2025-Q1,Lumen Search 2025-Q1,103513.11,2321632,73685,3948,1210793.73
+Lumen Bank,Finance,Search,APAC,2025-Q2,Lumen Search 2025-Q2,76819.78,2119800,81917,4484,1196411.11
+Lumen Bank,Finance,Search,APAC,2025-Q3,Lumen Search 2025-Q3,73369.97,1891147,85586,3687,1253798.35
+Lumen Bank,Finance,Search,APAC,2025-Q4,Lumen Search 2025-Q4,131773.34,3626931,145558,7446,2571536.77
+Lumen Bank,Finance,Search,APAC,2026-Q1,Lumen Search 2026-Q1,82949.32,2328261,101124,5132,1536868.81
+Lumen Bank,Finance,Search,APAC,2026-Q2,Lumen Search 2026-Q2,82551.53,1866119,72495,4108,1131350.31
+Lumen Bank,Finance,Search,APAC,2026-Q3,Lumen Search 2026-Q3,80713.48,1900756,68159,3388,1049524.35
+Lumen Bank,Finance,Search,LATAM,2025-Q1,Lumen Search 2025-Q1,45087.73,1065115,46185,1868,537467.06
+Lumen Bank,Finance,Search,LATAM,2025-Q2,Lumen Search 2025-Q2,45229.08,1017924,46393,2224,662289.4
+Lumen Bank,Finance,Search,LATAM,2025-Q3,Lumen Search 2025-Q3,37636.43,1086314,42515,1796,500458.57
+Lumen Bank,Finance,Search,LATAM,2025-Q4,Lumen Search 2025-Q4,56202.69,1695388,65604,3414,1106539.65
+Lumen Bank,Finance,Search,LATAM,2026-Q1,Lumen Search 2026-Q1,36407.25,825915,34282,1929,588190.39
+Lumen Bank,Finance,Search,LATAM,2026-Q2,Lumen Search 2026-Q2,44967.93,1246216,49432,2867,915355.93
+Lumen Bank,Finance,Search,LATAM,2026-Q3,Lumen Search 2026-Q3,48623.04,1136817,40898,2244,595335.32
+Lumen Bank,Finance,Audio,North America,2025-Q1,Lumen Audio 2025-Q1,75526.46,11477297,23911,247,71996.64
+Lumen Bank,Finance,Audio,North America,2025-Q2,Lumen Audio 2025-Q2,51880.78,6761852,13198,163,46473.51
+Lumen Bank,Finance,Audio,North America,2025-Q3,Lumen Audio 2025-Q3,88016.49,14084608,19855,228,70804.2
+Lumen Bank,Finance,Audio,North America,2025-Q4,Lumen Audio 2025-Q4,79677.45,10299982,18451,243,79828.37
+Lumen Bank,Finance,Audio,North America,2026-Q1,Lumen Audio 2026-Q1,75408.7,11132140,15929,180,60816.11
+Lumen Bank,Finance,Audio,North America,2026-Q2,Lumen Audio 2026-Q2,76249.17,9648026,13449,206,61813.8
+Lumen Bank,Finance,Audio,North America,2026-Q3,Lumen Audio 2026-Q3,68570.14,9258013,16467,245,78890.78
+Lumen Bank,Finance,Audio,Europe,2025-Q1,Lumen Audio 2025-Q1,60604.74,9564955,17431,213,57745.4
+Lumen Bank,Finance,Audio,Europe,2025-Q2,Lumen Audio 2025-Q2,54024.64,7581864,11833,172,47463.74
+Lumen Bank,Finance,Audio,Europe,2025-Q3,Lumen Audio 2025-Q3,57547.75,6856962,10967,143,40740.95
+Lumen Bank,Finance,Audio,Europe,2025-Q4,Lumen Audio 2025-Q4,62281.0,8979844,17638,183,62762.93
+Lumen Bank,Finance,Audio,Europe,2026-Q1,Lumen Audio 2026-Q1,69127.43,9443706,15444,178,50004.93
+Lumen Bank,Finance,Audio,Europe,2026-Q2,Lumen Audio 2026-Q2,69480.54,8645557,11779,173,56412.04
+Lumen Bank,Finance,Audio,Europe,2026-Q3,Lumen Audio 2026-Q3,66449.94,10857138,20870,293,85892.3
+Lumen Bank,Finance,Audio,APAC,2025-Q1,Lumen Audio 2025-Q1,43719.87,6762667,11405,123,40076.57
+Lumen Bank,Finance,Audio,APAC,2025-Q2,Lumen Audio 2025-Q2,77307.66,12098735,23547,307,100040.31
+Lumen Bank,Finance,Audio,APAC,2025-Q3,Lumen Audio 2025-Q3,48310.49,6496795,9818,139,38261.74
+Lumen Bank,Finance,Audio,APAC,2025-Q4,Lumen Audio 2025-Q4,87237.79,12377779,17917,193,62774.99
+Lumen Bank,Finance,Audio,APAC,2026-Q1,Lumen Audio 2026-Q1,61939.35,9031438,14976,170,53228.04
+Lumen Bank,Finance,Audio,APAC,2026-Q2,Lumen Audio 2026-Q2,57644.71,6997979,9734,150,53360.77
+Lumen Bank,Finance,Audio,APAC,2026-Q3,Lumen Audio 2026-Q3,96687.08,12510896,24909,347,100795.95
+Lumen Bank,Finance,Audio,LATAM,2025-Q1,Lumen Audio 2025-Q1,43298.39,5346519,7709,99,26524.08
+Lumen Bank,Finance,Audio,LATAM,2025-Q2,Lumen Audio 2025-Q2,26771.6,3407226,4753,68,22563.8
+Lumen Bank,Finance,Audio,LATAM,2025-Q3,Lumen Audio 2025-Q3,35374.9,4888289,9225,111,34718.21
+Lumen Bank,Finance,Audio,LATAM,2025-Q4,Lumen Audio 2025-Q4,33314.02,4437479,7739,81,22495.07
+Lumen Bank,Finance,Audio,LATAM,2026-Q1,Lumen Audio 2026-Q1,29223.99,3761438,7518,101,32222.56
+Lumen Bank,Finance,Audio,LATAM,2026-Q2,Lumen Audio 2026-Q2,36168.93,4666386,7525,98,30166.21
+Lumen Bank,Finance,Audio,LATAM,2026-Q3,Lumen Audio 2026-Q3,37694.3,5817276,8023,85,24069.95
+Lumen Bank,Finance,Social,North America,2025-Q1,Lumen Social 2025-Q1,89576.77,8946575,83642,1684,516789.77
+Lumen Bank,Finance,Social,North America,2025-Q2,Lumen Social 2025-Q2,77663.69,8392592,85087,1961,544115.54
+Lumen Bank,Finance,Social,North America,2025-Q3,Lumen Social 2025-Q3,118760.02,12940092,115609,2521,827559.77
+Lumen Bank,Finance,Social,North America,2025-Q4,Lumen Social 2025-Q4,168231.04,17775338,152385,4131,1232575.43
+Lumen Bank,Finance,Social,North America,2026-Q1,Lumen Social 2026-Q1,104454.75,9880437,103770,2794,824432.08
+Lumen Bank,Finance,Social,North America,2026-Q2,Lumen Social 2026-Q2,154447.25,17421863,202760,5806,1885804.4
+Lumen Bank,Finance,Social,North America,2026-Q3,Lumen Social 2026-Q3,153142.13,16354809,172779,3520,1251362.87
+Lumen Bank,Finance,Social,Europe,2025-Q1,Lumen Social 2025-Q1,81189.13,10024965,85220,2147,718159.31
+Lumen Bank,Finance,Social,Europe,2025-Q2,Lumen Social 2025-Q2,85787.65,8035554,71802,2132,711084.18
+Lumen Bank,Finance,Social,Europe,2025-Q3,Lumen Social 2025-Q3,73283.31,8334745,65727,1313,422943.8
+Lumen Bank,Finance,Social,Europe,2025-Q4,Lumen Social 2025-Q4,117184.95,11151170,100535,2923,851138.69
+Lumen Bank,Finance,Social,Europe,2026-Q1,Lumen Social 2026-Q1,134054.85,12713451,103387,2921,961055.9
+Lumen Bank,Finance,Social,Europe,2026-Q2,Lumen Social 2026-Q2,87879.81,8534258,83106,2033,605212.28
+Lumen Bank,Finance,Social,Europe,2026-Q3,Lumen Social 2026-Q3,84940.1,8098434,66046,1803,521499.42
+Lumen Bank,Finance,Social,APAC,2025-Q1,Lumen Social 2025-Q1,132714.45,16045355,158723,3497,1000450.18
+Lumen Bank,Finance,Social,APAC,2025-Q2,Lumen Social 2025-Q2,73884.02,8519007,91468,1762,543600.79
+Lumen Bank,Finance,Social,APAC,2025-Q3,Lumen Social 2025-Q3,76527.87,9803346,85454,2456,874513.23
+Lumen Bank,Finance,Social,APAC,2025-Q4,Lumen Social 2025-Q4,178468.64,21805555,233214,5566,1555125.27
+Lumen Bank,Finance,Social,APAC,2026-Q1,Lumen Social 2026-Q1,92732.79,8783948,98125,2279,614156.9
+Lumen Bank,Finance,Social,APAC,2026-Q2,Lumen Social 2026-Q2,111591.79,10374070,99919,2143,673232.27
+Lumen Bank,Finance,Social,APAC,2026-Q3,Lumen Social 2026-Q3,113965.28,12429475,111409,2416,703577.86
+Lumen Bank,Finance,Social,LATAM,2025-Q1,Lumen Social 2025-Q1,48881.72,5782434,66441,1270,420836.37
+Lumen Bank,Finance,Social,LATAM,2025-Q2,Lumen Social 2025-Q2,51079.56,5723305,57144,1223,398311.3
+Lumen Bank,Finance,Social,LATAM,2025-Q3,Lumen Social 2025-Q3,48535.55,4871144,46514,1369,471049.42
+Lumen Bank,Finance,Social,LATAM,2025-Q4,Lumen Social 2025-Q4,64056.67,6536766,56452,1645,532277.99
+Lumen Bank,Finance,Social,LATAM,2026-Q1,Lumen Social 2026-Q1,60547.38,7073979,82152,1656,518335.45
+Lumen Bank,Finance,Social,LATAM,2026-Q2,Lumen Social 2026-Q2,69032.98,8369833,89516,1767,528724.69
+Lumen Bank,Finance,Social,LATAM,2026-Q3,Lumen Social 2026-Q3,72210.63,6991494,54719,1239,425176.94
+Orbit Air,Travel,TV,North America,2025-Q1,Orbit TV 2025-Q1,77483.4,4103920,3428,44,20021.75
+Orbit Air,Travel,TV,North America,2025-Q2,Orbit TV 2025-Q2,92518.82,4804665,3059,40,17375.28
+Orbit Air,Travel,TV,North America,2025-Q3,Orbit TV 2025-Q3,102940.18,5483844,4334,41,18748.14
+Orbit Air,Travel,TV,North America,2025-Q4,Orbit TV 2025-Q4,109685.17,4401918,2820,32,12146.72
+Orbit Air,Travel,TV,North America,2026-Q1,Orbit TV 2026-Q1,119292.1,5183937,3567,50,22218.7
+Orbit Air,Travel,TV,North America,2026-Q2,Orbit TV 2026-Q2,150335.98,5945409,4387,61,24149.78
+Orbit Air,Travel,TV,North America,2026-Q3,Orbit TV 2026-Q3,157694.38,8221333,7063,74,30773.96
+Orbit Air,Travel,TV,Europe,2025-Q1,Orbit TV 2025-Q1,81360.16,4270226,2922,28,12702.33
+Orbit Air,Travel,TV,Europe,2025-Q2,Orbit TV 2025-Q2,106845.92,4740877,3415,35,16753.2
+Orbit Air,Travel,TV,Europe,2025-Q3,Orbit TV 2025-Q3,83565.85,3524703,2992,39,15564.65
+Orbit Air,Travel,TV,Europe,2025-Q4,Orbit TV 2025-Q4,102983.62,4618556,3076,28,13420.91
+Orbit Air,Travel,TV,Europe,2026-Q1,Orbit TV 2026-Q1,89810.98,4102717,2685,34,14838.95
+Orbit Air,Travel,TV,Europe,2026-Q2,Orbit TV 2026-Q2,86129.04,3279420,3060,42,19583.17
+Orbit Air,Travel,TV,Europe,2026-Q3,Orbit TV 2026-Q3,88854.59,4228458,3513,34,15115.02
+Orbit Air,Travel,TV,APAC,2025-Q1,Orbit TV 2025-Q1,103453.6,5501502,4691,51,22701.33
+Orbit Air,Travel,TV,APAC,2025-Q2,Orbit TV 2025-Q2,83465.53,3321107,2718,36,16106.4
+Orbit Air,Travel,TV,APAC,2025-Q3,Orbit TV 2025-Q3,82499.62,3221918,2006,21,8548.37
+Orbit Air,Travel,TV,APAC,2025-Q4,Orbit TV 2025-Q4,123526.07,6157196,5582,51,19615.78
+Orbit Air,Travel,TV,APAC,2026-Q1,Orbit TV 2026-Q1,102835.78,5036157,3506,49,22377.87
+Orbit Air,Travel,TV,APAC,2026-Q2,Orbit TV 2026-Q2,97113.77,4917462,3442,48,22249.26
+Orbit Air,Travel,TV,APAC,2026-Q3,Orbit TV 2026-Q3,90852.68,3763154,2771,35,14001.85
+Orbit Air,Travel,TV,LATAM,2025-Q1,Orbit TV 2025-Q1,50571.66,2682606,1902,25,12081.97
+Orbit Air,Travel,TV,LATAM,2025-Q2,Orbit TV 2025-Q2,45543.73,1862064,1256,13,6461.12
+Orbit Air,Travel,TV,LATAM,2025-Q3,Orbit TV 2025-Q3,68938.86,3117779,2723,37,18278.5
+Orbit Air,Travel,TV,LATAM,2025-Q4,Orbit TV 2025-Q4,73182.5,3083141,2285,26,10919.66
+Orbit Air,Travel,TV,LATAM,2026-Q1,Orbit TV 2026-Q1,60454.58,3207683,2791,35,16396.89
+Orbit Air,Travel,TV,LATAM,2026-Q2,Orbit TV 2026-Q2,54553.5,2657882,2157,30,12513.36
+Orbit Air,Travel,TV,LATAM,2026-Q3,Orbit TV 2026-Q3,69815.15,2999046,2805,38,17907.73
+Orbit Air,Travel,Search,North America,2025-Q1,Orbit Search 2025-Q1,76038.56,1732924,85538,5287,2148414.26
+Orbit Air,Travel,Search,North America,2025-Q2,Orbit Search 2025-Q2,91069.09,2565616,130714,8289,3342902.59
+Orbit Air,Travel,Search,North America,2025-Q3,Orbit Search 2025-Q3,111449.59,2913167,131377,6175,2412627.81
+Orbit Air,Travel,Search,North America,2025-Q4,Orbit Search 2025-Q4,102789.25,2874504,126815,5600,2550090.08
+Orbit Air,Travel,Search,North America,2026-Q1,Orbit Search 2026-Q1,103043.76,2697144,125544,5655,2310466.58
+Orbit Air,Travel,Search,North America,2026-Q2,Orbit Search 2026-Q2,105360.63,2659339,136610,8231,3064154.73
+Orbit Air,Travel,Search,North America,2026-Q3,Orbit Search 2026-Q3,110337.9,2785448,131601,5995,2497137.63
+Orbit Air,Travel,Search,Europe,2025-Q1,Orbit Search 2025-Q1,52979.74,1234782,61370,2878,1329702.93
+Orbit Air,Travel,Search,Europe,2025-Q2,Orbit Search 2025-Q2,61954.49,1503985,76074,3905,1846649.79
+Orbit Air,Travel,Search,Europe,2025-Q3,Orbit Search 2025-Q3,66307.1,1540484,63944,3467,1313351.55
+Orbit Air,Travel,Search,Europe,2025-Q4,Orbit Search 2025-Q4,88406.56,2002439,74679,4429,1968672.78
+Orbit Air,Travel,Search,Europe,2026-Q1,Orbit Search 2026-Q1,61541.38,1383104,60051,2890,1042795.32
+Orbit Air,Travel,Search,Europe,2026-Q2,Orbit Search 2026-Q2,77919.56,2117802,93349,4329,1876727.11
+Orbit Air,Travel,Search,Europe,2026-Q3,Orbit Search 2026-Q3,71635.28,1664860,78279,4600,1787941.99
+Orbit Air,Travel,Search,APAC,2025-Q1,Orbit Search 2025-Q1,63876.55,1451625,75774,4313,2041064.52
+Orbit Air,Travel,Search,APAC,2025-Q2,Orbit Search 2025-Q2,103725.21,2570163,108618,5448,2281262.66
+Orbit Air,Travel,Search,APAC,2025-Q3,Orbit Search 2025-Q3,101123.71,2661982,117036,4977,2024020.94
+Orbit Air,Travel,Search,APAC,2025-Q4,Orbit Search 2025-Q4,101894.75,2501443,124613,7009,3088627.71
+Orbit Air,Travel,Search,APAC,2026-Q1,Orbit Search 2026-Q1,55217.74,1546368,64079,3950,1881214.65
+Orbit Air,Travel,Search,APAC,2026-Q2,Orbit Search 2026-Q2,95733.07,2951021,155507,9643,4180896.45
+Orbit Air,Travel,Search,APAC,2026-Q3,Orbit Search 2026-Q3,101666.22,2528780,130501,6201,2561027.51
+Orbit Air,Travel,Search,LATAM,2025-Q1,Orbit Search 2025-Q1,35280.19,1003193,48104,2307,1030224.04
+Orbit Air,Travel,Search,LATAM,2025-Q2,Orbit Search 2025-Q2,33490.99,882699,47001,2662,1204278.5
+Orbit Air,Travel,Search,LATAM,2025-Q3,Orbit Search 2025-Q3,44611.79,1319860,63204,4043,1763601.91
+Orbit Air,Travel,Search,LATAM,2025-Q4,Orbit Search 2025-Q4,48242.36,1458044,74875,4674,2039101.08
+Orbit Air,Travel,Search,LATAM,2026-Q1,Orbit Search 2026-Q1,50180.24,1204061,46828,2692,1196781.49
+Orbit Air,Travel,Search,LATAM,2026-Q2,Orbit Search 2026-Q2,49429.79,1382303,47330,2196,1014814.28
+Orbit Air,Travel,Search,LATAM,2026-Q3,Orbit Search 2026-Q3,55561.83,1669094,65002,3510,1512606.1
+Orbit Air,Travel,Video,North America,2025-Q1,Orbit Video 2025-Q1,77437.57,5427090,43233,823,308740.42
+Orbit Air,Travel,Video,North America,2025-Q2,Orbit Video 2025-Q2,98836.39,8855671,63598,1110,510745.39
+Orbit Air,Travel,Video,North America,2025-Q3,Orbit Video 2025-Q3,131686.54,11003867,65775,1483,645498.71
+Orbit Air,Travel,Video,North America,2025-Q4,Orbit Video 2025-Q4,155504.33,13497598,78936,1778,806240.33
+Orbit Air,Travel,Video,North America,2026-Q1,Orbit Video 2026-Q1,171131.88,11894083,83191,1391,603646.2
+Orbit Air,Travel,Video,North America,2026-Q2,Orbit Video 2026-Q2,141072.31,11418842,76443,1530,723957.23
+Orbit Air,Travel,Video,North America,2026-Q3,Orbit Video 2026-Q3,152656.3,12781401,99258,2239,1017683.68
+Orbit Air,Travel,Video,Europe,2025-Q1,Orbit Video 2025-Q1,80659.05,5770738,39195,631,247014.89
+Orbit Air,Travel,Video,Europe,2025-Q2,Orbit Video 2025-Q2,84424.91,7159306,47146,878,334976.72
+Orbit Air,Travel,Video,Europe,2025-Q3,Orbit Video 2025-Q3,106404.65,10225180,74975,1347,558584.72
+Orbit Air,Travel,Video,Europe,2025-Q4,Orbit Video 2025-Q4,133431.7,10398360,80544,1749,834689.01
+Orbit Air,Travel,Video,Europe,2026-Q1,Orbit Video 2026-Q1,115026.45,9736950,79470,1523,725837.62
+Orbit Air,Travel,Video,Europe,2026-Q2,Orbit Video 2026-Q2,93770.86,8970685,71762,1343,565512.88
+Orbit Air,Travel,Video,Europe,2026-Q3,Orbit Video 2026-Q3,93853.24,8438823,69344,1289,500415.74
+Orbit Air,Travel,Video,APAC,2025-Q1,Orbit Video 2025-Q1,132631.36,10715534,71980,1639,595773.86
+Orbit Air,Travel,Video,APAC,2025-Q2,Orbit Video 2025-Q2,122270.94,11277842,80438,1760,734745.88
+Orbit Air,Travel,Video,APAC,2025-Q3,Orbit Video 2025-Q3,135875.5,10534026,56649,980,473233.57
+Orbit Air,Travel,Video,APAC,2025-Q4,Orbit Video 2025-Q4,160256.78,11304928,76795,1313,469294.1
+Orbit Air,Travel,Video,APAC,2026-Q1,Orbit Video 2026-Q1,134914.71,11680610,77496,1474,628159.83
+Orbit Air,Travel,Video,APAC,2026-Q2,Orbit Video 2026-Q2,92334.32,8931521,54651,1280,461459.31
+Orbit Air,Travel,Video,APAC,2026-Q3,Orbit Video 2026-Q3,112412.87,9213591,68507,1236,498924.23
+Orbit Air,Travel,Video,LATAM,2025-Q1,Orbit Video 2025-Q1,58554.29,4176314,26322,419,151754.46
+Orbit Air,Travel,Video,LATAM,2025-Q2,Orbit Video 2025-Q2,59427.74,5159692,29295,594,275605.31
+Orbit Air,Travel,Video,LATAM,2025-Q3,Orbit Video 2025-Q3,72813.05,6718813,43901,767,275541.32
+Orbit Air,Travel,Video,LATAM,2025-Q4,Orbit Video 2025-Q4,89339.44,7365947,42156,959,461752.16
+Orbit Air,Travel,Video,LATAM,2026-Q1,Orbit Video 2026-Q1,65818.56,5842586,34413,677,291721.48
+Orbit Air,Travel,Video,LATAM,2026-Q2,Orbit Video 2026-Q2,64585.4,4528362,36427,660,284423.18
+Orbit Air,Travel,Video,LATAM,2026-Q3,Orbit Video 2026-Q3,51202.29,4136127,22880,369,137607.66
+Orbit Air,Travel,OOH,North America,2025-Q1,Orbit OOH 2025-Q1,81565.45,4957945,1571,10,4464.33
+Orbit Air,Travel,OOH,North America,2025-Q2,Orbit OOH 2025-Q2,82646.32,5015009,2142,17,7628.42
+Orbit Air,Travel,OOH,North America,2025-Q3,Orbit OOH 2025-Q3,62210.69,4720791,1606,13,5275.84
+Orbit Air,Travel,OOH,North America,2025-Q4,Orbit OOH 2025-Q4,100366.88,7109857,2685,23,10561.97
+Orbit Air,Travel,OOH,North America,2026-Q1,Orbit OOH 2026-Q1,86974.81,6131017,2707,22,9299.56
+Orbit Air,Travel,OOH,North America,2026-Q2,Orbit OOH 2026-Q2,66267.98,4044326,1907,15,7494.61
+Orbit Air,Travel,OOH,North America,2026-Q3,Orbit OOH 2026-Q3,98911.26,6002804,2689,17,7161.79
+Orbit Air,Travel,OOH,Europe,2025-Q1,Orbit OOH 2025-Q1,45609.47,3494078,1533,13,6211.86
+Orbit Air,Travel,OOH,Europe,2025-Q2,Orbit OOH 2025-Q2,102452.63,5841935,2187,19,8012.35
+Orbit Air,Travel,OOH,Europe,2025-Q3,Orbit OOH 2025-Q3,49443.73,3480584,1185,8,3379.07
+Orbit Air,Travel,OOH,Europe,2025-Q4,Orbit OOH 2025-Q4,64385.82,3603867,1155,7,2589.11
+Orbit Air,Travel,OOH,Europe,2026-Q1,Orbit OOH 2026-Q1,76407.53,5815999,2444,17,6647.48
+Orbit Air,Travel,OOH,Europe,2026-Q2,Orbit OOH 2026-Q2,98683.23,6028031,1851,16,7169.2
+Orbit Air,Travel,OOH,Europe,2026-Q3,Orbit OOH 2026-Q3,48130.52,3476689,1446,11,4727.37
+Orbit Air,Travel,OOH,APAC,2025-Q1,Orbit OOH 2025-Q1,75346.16,4962513,2281,18,8363.49
+Orbit Air,Travel,OOH,APAC,2025-Q2,Orbit OOH 2025-Q2,71088.81,4527634,1755,14,6183.39
+Orbit Air,Travel,OOH,APAC,2025-Q3,Orbit OOH 2025-Q3,55321.56,4036351,1449,13,5346.03
+Orbit Air,Travel,OOH,APAC,2025-Q4,Orbit OOH 2025-Q4,97977.75,5543525,2233,14,6495.33
+Orbit Air,Travel,OOH,APAC,2026-Q1,Orbit OOH 2026-Q1,76520.24,5359822,2420,18,6814.34
+Orbit Air,Travel,OOH,APAC,2026-Q2,Orbit OOH 2026-Q2,68179.71,4887872,1995,17,6538.69
+Orbit Air,Travel,OOH,APAC,2026-Q3,Orbit OOH 2026-Q3,71301.65,4451306,1664,12,5818.18
+Orbit Air,Travel,OOH,LATAM,2025-Q1,Orbit OOH 2025-Q1,31752.53,1781047,778,4,1783.35
+Orbit Air,Travel,OOH,LATAM,2025-Q2,Orbit OOH 2025-Q2,27475.59,1546592,491,3,1569.01
+Orbit Air,Travel,OOH,LATAM,2025-Q3,Orbit OOH 2025-Q3,41330.82,2918858,1022,7,2608.55
+Orbit Air,Travel,OOH,LATAM,2025-Q4,Orbit OOH 2025-Q4,43870.21,2907001,1238,10,4883.85
+Orbit Air,Travel,OOH,LATAM,2026-Q1,Orbit OOH 2026-Q1,32508.99,1870151,691,5,2643.94
+Orbit Air,Travel,OOH,LATAM,2026-Q2,Orbit OOH 2026-Q2,39309.47,2604599,1072,6,2938.35
+Orbit Air,Travel,OOH,LATAM,2026-Q3,Orbit OOH 2026-Q3,51957.76,3729766,1531,14,6954.48
+Nimbus Cloud,Software,Search,North America,2025-Q1,Nimbus Search 2025-Q1,67965.14,1780577,85560,5931,8825985.56
+Nimbus Cloud,Software,Search,North America,2025-Q2,Nimbus Search 2025-Q2,64066.34,1579334,83011,5547,8763199.89
+Nimbus Cloud,Software,Search,North America,2025-Q3,Nimbus Search 2025-Q3,61965.59,1367070,80315,4116,5679282.36
+Nimbus Cloud,Software,Search,North America,2025-Q4,Nimbus Search 2025-Q4,100641.1,2779017,147606,7366,9395733.17
+Nimbus Cloud,Software,Search,North America,2026-Q1,Nimbus Search 2026-Q1,73279.42,2204981,108158,5912,9175818.63
+Nimbus Cloud,Software,Search,North America,2026-Q2,Nimbus Search 2026-Q2,71243.72,1906765,109572,6972,8444401.46
+Nimbus Cloud,Software,Search,North America,2026-Q3,Nimbus Search 2026-Q3,98188.79,2428936,106972,5900,8565550.01
+Nimbus Cloud,Software,Search,Europe,2025-Q1,Nimbus Search 2025-Q1,47232.04,1316424,68528,4499,5428355.97
+Nimbus Cloud,Software,Search,Europe,2025-Q2,Nimbus Search 2025-Q2,60008.09,1648911,97571,4858,6490386.27
+Nimbus Cloud,Software,Search,Europe,2025-Q3,Nimbus Search 2025-Q3,69647.95,1676431,96680,4830,7499774.49
+Nimbus Cloud,Software,Search,Europe,2025-Q4,Nimbus Search 2025-Q4,67873.45,1929000,115740,6525,9925870.24
+Nimbus Cloud,Software,Search,Europe,2026-Q1,Nimbus Search 2026-Q1,50112.24,1306181,66439,4837,7456165.03
+Nimbus Cloud,Software,Search,Europe,2026-Q2,Nimbus Search 2026-Q2,58666.24,1778550,87465,5126,8244721.84
+Nimbus Cloud,Software,Search,Europe,2026-Q3,Nimbus Search 2026-Q3,53648.65,1423522,67939,4708,5791939.49
+Nimbus Cloud,Software,Search,APAC,2025-Q1,Nimbus Search 2025-Q1,59246.52,1437220,70849,4799,6512995.54
+Nimbus Cloud,Software,Search,APAC,2025-Q2,Nimbus Search 2025-Q2,62960.36,1663624,67783,3441,4729899.8
+Nimbus Cloud,Software,Search,APAC,2025-Q3,Nimbus Search 2025-Q3,92120.0,2631335,133555,10023,15411541.65
+Nimbus Cloud,Software,Search,APAC,2025-Q4,Nimbus Search 2025-Q4,85719.72,2076690,109486,7033,10145936.05
+Nimbus Cloud,Software,Search,APAC,2026-Q1,Nimbus Search 2026-Q1,89389.06,2409647,108233,5430,7304811.52
+Nimbus Cloud,Software,Search,APAC,2026-Q2,Nimbus Search 2026-Q2,71363.42,1799801,77846,5493,6632772.96
+Nimbus Cloud,Software,Search,APAC,2026-Q3,Nimbus Search 2026-Q3,89216.41,2177656,113210,6751,10373180.86
+Nimbus Cloud,Software,Search,LATAM,2025-Q1,Nimbus Search 2025-Q1,34814.5,1070831,54815,3096,4206962.7
+Nimbus Cloud,Software,Search,LATAM,2025-Q2,Nimbus Search 2025-Q2,31929.49,971026,59715,3991,4916207.98
+Nimbus Cloud,Software,Search,LATAM,2025-Q3,Nimbus Search 2025-Q3,23083.83,586068,32176,2203,3539738.23
+Nimbus Cloud,Software,Search,LATAM,2025-Q4,Nimbus Search 2025-Q4,30362.78,666586,33477,1803,2429087.1
+Nimbus Cloud,Software,Search,LATAM,2026-Q1,Nimbus Search 2026-Q1,67787.01,1533358,78628,3948,5884143.01
+Nimbus Cloud,Software,Search,LATAM,2026-Q2,Nimbus Search 2026-Q2,33566.5,778187,31621,2275,3560629.78
+Nimbus Cloud,Software,Search,LATAM,2026-Q3,Nimbus Search 2026-Q3,43563.99,1127343,47695,2995,3677396.9
+Nimbus Cloud,Software,Display,North America,2025-Q1,Nimbus Display 2025-Q1,117752.7,27160280,147095,1833,2347205.78
+Nimbus Cloud,Software,Display,North America,2025-Q2,Nimbus Display 2025-Q2,122838.11,35546363,160884,2011,2886734.94
+Nimbus Cloud,Software,Display,North America,2025-Q3,Nimbus Display 2025-Q3,131146.3,36881234,192904,2866,4260038.39
+Nimbus Cloud,Software,Display,North America,2025-Q4,Nimbus Display 2025-Q4,233285.24,60916371,242621,3329,4841692.99
+Nimbus Cloud,Software,Display,North America,2026-Q1,Nimbus Display 2026-Q1,198305.35,41810983,184406,2839,4235590.46
+Nimbus Cloud,Software,Display,North America,2026-Q2,Nimbus Display 2026-Q2,165901.7,35340529,158583,2542,3456799.63
+Nimbus Cloud,Software,Display,North America,2026-Q3,Nimbus Display 2026-Q3,148783.01,31428239,166134,2329,2841600.52
+Nimbus Cloud,Software,Display,Europe,2025-Q1,Nimbus Display 2025-Q1,94737.18,25347320,122296,1565,2503646.74
+Nimbus Cloud,Software,Display,Europe,2025-Q2,Nimbus Display 2025-Q2,109817.91,24874091,108073,1336,2083133.55
+Nimbus Cloud,Software,Display,Europe,2025-Q3,Nimbus Display 2025-Q3,165983.26,35059245,172212,2217,3118080.92
+Nimbus Cloud,Software,Display,Europe,2025-Q4,Nimbus Display 2025-Q4,176036.03,43372033,212715,3132,4091788.06
+Nimbus Cloud,Software,Display,Europe,2026-Q1,Nimbus Display 2026-Q1,144917.51,36153887,150280,1986,2776122.27
+Nimbus Cloud,Software,Display,Europe,2026-Q2,Nimbus Display 2026-Q2,131398.38,36985881,179161,2722,3626718.83
+Nimbus Cloud,Software,Display,Europe,2026-Q3,Nimbus Display 2026-Q3,85637.43,19437656,78779,1012,1530324.32
+Nimbus Cloud,Software,Display,APAC,2025-Q1,Nimbus Display 2025-Q1,128256.04,29538259,182111,2653,3766296.17
+Nimbus Cloud,Software,Display,APAC,2025-Q2,Nimbus Display 2025-Q2,100521.36,25115930,100041,1218,1754175.16
+Nimbus Cloud,Software,Display,APAC,2025-Q3,Nimbus Display 2025-Q3,118502.87,27883096,128037,2107,2862070.34
+Nimbus Cloud,Software,Display,APAC,2025-Q4,Nimbus Display 2025-Q4,185304.33,44393975,209822,2354,3507132.2
+Nimbus Cloud,Software,Display,APAC,2026-Q1,Nimbus Display 2026-Q1,111803.62,23482920,100150,1599,2438581.42
+Nimbus Cloud,Software,Display,APAC,2026-Q2,Nimbus Display 2026-Q2,140686.03,34558198,185357,2304,2846015.08
+Nimbus Cloud,Software,Display,APAC,2026-Q3,Nimbus Display 2026-Q3,109594.59,30186576,152535,2007,3150083.61
+Nimbus Cloud,Software,Display,LATAM,2025-Q1,Nimbus Display 2025-Q1,62002.13,15523170,95247,1205,1802037.13
+Nimbus Cloud,Software,Display,LATAM,2025-Q2,Nimbus Display 2025-Q2,105392.31,23629999,133117,2060,2871565.33
+Nimbus Cloud,Software,Display,LATAM,2025-Q3,Nimbus Display 2025-Q3,57989.89,13533929,81034,1004,1204289.26
+Nimbus Cloud,Software,Display,LATAM,2025-Q4,Nimbus Display 2025-Q4,104121.38,22124844,87912,956,1177721.11
+Nimbus Cloud,Software,Display,LATAM,2026-Q1,Nimbus Display 2026-Q1,74273.77,18867286,103780,1531,2101054.23
+Nimbus Cloud,Software,Display,LATAM,2026-Q2,Nimbus Display 2026-Q2,61174.33,15120767,78128,967,1152021.59
+Nimbus Cloud,Software,Display,LATAM,2026-Q3,Nimbus Display 2026-Q3,84560.19,22418558,102518,1617,2170979.85
+Nimbus Cloud,Software,Social,North America,2025-Q1,Nimbus Social 2025-Q1,67811.72,7255626,72508,2137,3091995.14
+Nimbus Cloud,Software,Social,North America,2025-Q2,Nimbus Social 2025-Q2,64557.15,6001754,84206,2663,4193468.07
+Nimbus Cloud,Software,Social,North America,2025-Q3,Nimbus Social 2025-Q3,79700.94,9536686,139819,4431,5589658.23
+Nimbus Cloud,Software,Social,North America,2025-Q4,Nimbus Social 2025-Q4,116749.09,11733309,152129,3845,4635112.6
+Nimbus Cloud,Software,Social,North America,2026-Q1,Nimbus Social 2026-Q1,67422.05,8754721,88753,2977,4091294.46
+Nimbus Cloud,Software,Social,North America,2026-Q2,Nimbus Social 2026-Q2,92924.37,8925739,104309,3847,5562341.27
+Nimbus Cloud,Software,Social,North America,2026-Q3,Nimbus Social 2026-Q3,95823.98,10664057,142247,3985,5173172.63
+Nimbus Cloud,Software,Social,Europe,2025-Q1,Nimbus Social 2025-Q1,55356.75,5537963,63558,1888,2968413.48
+Nimbus Cloud,Software,Social,Europe,2025-Q2,Nimbus Social 2025-Q2,62903.91,7479910,108520,3087,4103398.19
+Nimbus Cloud,Software,Social,Europe,2025-Q3,Nimbus Social 2025-Q3,57815.53,6674949,100848,3632,5614971.3
+Nimbus Cloud,Software,Social,Europe,2025-Q4,Nimbus Social 2025-Q4,87807.24,10536338,145167,5240,6730183.22
+Nimbus Cloud,Software,Social,Europe,2026-Q1,Nimbus Social 2026-Q1,76931.06,9139739,95321,2905,4070804.16
+Nimbus Cloud,Software,Social,Europe,2026-Q2,Nimbus Social 2026-Q2,62425.65,7978367,85579,2247,2929470.72
+Nimbus Cloud,Software,Social,Europe,2026-Q3,Nimbus Social 2026-Q3,57399.02,5415380,63429,1685,2476811.28
+Nimbus Cloud,Software,Social,APAC,2025-Q1,Nimbus Social 2025-Q1,68652.19,6762164,89324,2669,3628392.81
+Nimbus Cloud,Software,Social,APAC,2025-Q2,Nimbus Social 2025-Q2,50889.19,4994230,70189,2205,3423078.98
+Nimbus Cloud,Software,Social,APAC,2025-Q3,Nimbus Social 2025-Q3,62418.63,6363068,70906,1984,2551423.99
+Nimbus Cloud,Software,Social,APAC,2025-Q4,Nimbus Social 2025-Q4,83885.87,8247732,120222,4333,6621433.03
+Nimbus Cloud,Software,Social,APAC,2026-Q1,Nimbus Social 2026-Q1,71940.38,7149926,75699,2553,3084233.94
+Nimbus Cloud,Software,Social,APAC,2026-Q2,Nimbus Social 2026-Q2,82502.53,7917507,83752,2956,4540218.28
+Nimbus Cloud,Software,Social,APAC,2026-Q3,Nimbus Social 2026-Q3,60140.49,6375374,76296,2534,3959221.45
+Nimbus Cloud,Software,Social,LATAM,2025-Q1,Nimbus Social 2025-Q1,39149.0,4708162,59795,1938,2316584.41
+Nimbus Cloud,Software,Social,LATAM,2025-Q2,Nimbus Social 2025-Q2,35326.5,4022436,42836,1196,1763375.19
+Nimbus Cloud,Software,Social,LATAM,2025-Q3,Nimbus Social 2025-Q3,50698.33,5575601,73585,2589,3813727.54
+Nimbus Cloud,Software,Social,LATAM,2025-Q4,Nimbus Social 2025-Q4,49340.74,6446656,92939,2497,3161682.53
+Nimbus Cloud,Software,Social,LATAM,2026-Q1,Nimbus Social 2026-Q1,36236.76,3814946,52623,1510,2396804.19
+Nimbus Cloud,Software,Social,LATAM,2026-Q2,Nimbus Social 2026-Q2,38630.03,3747197,46005,1178,1408941.44
+Nimbus Cloud,Software,Social,LATAM,2026-Q3,Nimbus Social 2026-Q3,41538.86,4619365,55794,1626,2057800.13
+Nimbus Cloud,Software,Video,North America,2025-Q1,Nimbus Video 2025-Q1,97776.77,7009307,47518,1291,2003607.7
+Nimbus Cloud,Software,Video,North America,2025-Q2,Nimbus Video 2025-Q2,103478.5,7695857,62891,1396,2138856.52
+Nimbus Cloud,Software,Video,North America,2025-Q3,Nimbus Video 2025-Q3,127455.77,11538292,107298,1922,2292271.86
+Nimbus Cloud,Software,Video,North America,2025-Q4,Nimbus Video 2025-Q4,180744.09,15764029,120193,2685,3723827.0
+Nimbus Cloud,Software,Video,North America,2026-Q1,Nimbus Video 2026-Q1,121555.29,8647661,63643,1301,1906040.85
+Nimbus Cloud,Software,Video,North America,2026-Q2,Nimbus Video 2026-Q2,98774.8,8312969,71888,1269,1921905.29
+Nimbus Cloud,Software,Video,North America,2026-Q3,Nimbus Video 2026-Q3,82068.93,6939406,48706,1117,1468753.89
+Nimbus Cloud,Software,Video,Europe,2025-Q1,Nimbus Video 2025-Q1,66976.19,5281798,38149,976,1411191.08
+Nimbus Cloud,Software,Video,Europe,2025-Q2,Nimbus Video 2025-Q2,81702.82,6665872,62882,1306,1800660.82
+Nimbus Cloud,Software,Video,Europe,2025-Q3,Nimbus Video 2025-Q3,74960.57,6252003,56430,1047,1419568.76
+Nimbus Cloud,Software,Video,Europe,2025-Q4,Nimbus Video 2025-Q4,121983.48,8767753,70798,1399,1719246.33
+Nimbus Cloud,Software,Video,Europe,2026-Q1,Nimbus Video 2026-Q1,79793.33,7524195,59000,1464,1933123.57
+Nimbus Cloud,Software,Video,Europe,2026-Q2,Nimbus Video 2026-Q2,86933.75,7418563,49969,1296,1595681.02
+Nimbus Cloud,Software,Video,Europe,2026-Q3,Nimbus Video 2026-Q3,82574.89,7117221,61804,1559,1944249.1
+Nimbus Cloud,Software,Video,APAC,2025-Q1,Nimbus Video 2025-Q1,88198.53,6223608,50565,1212,1607567.0
+Nimbus Cloud,Software,Video,APAC,2025-Q2,Nimbus Video 2025-Q2,115276.06,8650186,77876,1529,1893058.59
+Nimbus Cloud,Software,Video,APAC,2025-Q3,Nimbus Video 2025-Q3,105944.03,8257812,61313,1664,2533742.7
+Nimbus Cloud,Software,Video,APAC,2025-Q4,Nimbus Video 2025-Q4,109117.44,8579428,75316,2034,2451674.09
+Nimbus Cloud,Software,Video,APAC,2026-Q1,Nimbus Video 2026-Q1,78100.48,7109226,63379,1261,1894028.54
+Nimbus Cloud,Software,Video,APAC,2026-Q2,Nimbus Video 2026-Q2,131929.62,10198325,86814,2309,3593765.08
+Nimbus Cloud,Software,Video,APAC,2026-Q3,Nimbus Video 2026-Q3,138733.79,10595317,71963,1336,1991149.38
+Nimbus Cloud,Software,Video,LATAM,2025-Q1,Nimbus Video 2025-Q1,43244.92,3242738,25781,614,919607.87
+Nimbus Cloud,Software,Video,LATAM,2025-Q2,Nimbus Video 2025-Q2,47717.26,4069742,37066,787,1236617.44
+Nimbus Cloud,Software,Video,LATAM,2025-Q3,Nimbus Video 2025-Q3,46476.97,3434931,31082,850,1366013.73
+Nimbus Cloud,Software,Video,LATAM,2025-Q4,Nimbus Video 2025-Q4,67641.39,5739824,49939,1357,1974618.37
+Nimbus Cloud,Software,Video,LATAM,2026-Q1,Nimbus Video 2026-Q1,54067.83,5217931,40534,1029,1608864.24
+Nimbus Cloud,Software,Video,LATAM,2026-Q2,Nimbus Video 2026-Q2,57596.26,4655329,36952,684,815362.48
+Nimbus Cloud,Software,Video,LATAM,2026-Q3,Nimbus Video 2026-Q3,61213.51,4969439,45482,882,1365855.98
+Verdant Foods,Grocery,Audio,North America,2025-Q1,Verdant Audio 2025-Q1,54709.55,8675898,17017,251,18357.05
+Verdant Foods,Grocery,Audio,North America,2025-Q2,Verdant Audio 2025-Q2,68611.32,9116077,16073,230,13441.08
+Verdant Foods,Grocery,Audio,North America,2025-Q3,Verdant Audio 2025-Q3,104295.6,13146868,19305,192,10795.64
+Verdant Foods,Grocery,Audio,North America,2025-Q4,Verdant Audio 2025-Q4,88813.89,12228512,22237,310,16901.87
+Verdant Foods,Grocery,Audio,North America,2026-Q1,Verdant Audio 2026-Q1,83922.24,10354116,20209,277,17164.93
+Verdant Foods,Grocery,Audio,North America,2026-Q2,Verdant Audio 2026-Q2,83187.39,11642138,20756,276,18717.62
+Verdant Foods,Grocery,Audio,North America,2026-Q3,Verdant Audio 2026-Q3,64891.46,9017528,16522,193,11526.58
+Verdant Foods,Grocery,Audio,Europe,2025-Q1,Verdant Audio 2025-Q1,45667.51,5692312,10228,107,5941.62
+Verdant Foods,Grocery,Audio,Europe,2025-Q2,Verdant Audio 2025-Q2,52318.75,6333878,9349,121,6654.48
+Verdant Foods,Grocery,Audio,Europe,2025-Q3,Verdant Audio 2025-Q3,57498.86,7491931,11537,161,11582.99
+Verdant Foods,Grocery,Audio,Europe,2025-Q4,Verdant Audio 2025-Q4,74076.54,9700943,15043,158,9690.32
+Verdant Foods,Grocery,Audio,Europe,2026-Q1,Verdant Audio 2026-Q1,66545.1,8170120,14960,144,7991.68
+Verdant Foods,Grocery,Audio,Europe,2026-Q2,Verdant Audio 2026-Q2,42700.4,5838389,10038,115,8126.16
+Verdant Foods,Grocery,Audio,Europe,2026-Q3,Verdant Audio 2026-Q3,52805.57,7134093,10413,143,8404.85
+Verdant Foods,Grocery,Audio,APAC,2025-Q1,Verdant Audio 2025-Q1,60839.08,8206438,15422,172,10382.15
+Verdant Foods,Grocery,Audio,APAC,2025-Q2,Verdant Audio 2025-Q2,59389.54,7995602,14671,150,9753.03
+Verdant Foods,Grocery,Audio,APAC,2025-Q3,Verdant Audio 2025-Q3,67268.2,10829534,17996,199,11597.44
+Verdant Foods,Grocery,Audio,APAC,2025-Q4,Verdant Audio 2025-Q4,71062.6,11514938,17586,227,14149.25
+Verdant Foods,Grocery,Audio,APAC,2026-Q1,Verdant Audio 2026-Q1,62129.88,7696669,11177,132,9496.0
+Verdant Foods,Grocery,Audio,APAC,2026-Q2,Verdant Audio 2026-Q2,56476.96,6894835,10865,147,10460.22
+Verdant Foods,Grocery,Audio,APAC,2026-Q3,Verdant Audio 2026-Q3,53560.96,6433601,8704,114,6753.25
+Verdant Foods,Grocery,Audio,LATAM,2025-Q1,Verdant Audio 2025-Q1,43003.29,6840834,13396,137,9916.74
+Verdant Foods,Grocery,Audio,LATAM,2025-Q2,Verdant Audio 2025-Q2,31442.34,4653546,6665,99,5592.68
+Verdant Foods,Grocery,Audio,LATAM,2025-Q3,Verdant Audio 2025-Q3,48372.56,7234784,14221,194,11544.86
+Verdant Foods,Grocery,Audio,LATAM,2025-Q4,Verdant Audio 2025-Q4,44444.39,7004922,11019,107,7245.17
+Verdant Foods,Grocery,Audio,LATAM,2026-Q1,Verdant Audio 2026-Q1,32197.31,4866624,6275,92,5229.5
+Verdant Foods,Grocery,Audio,LATAM,2026-Q2,Verdant Audio 2026-Q2,33238.3,5528463,8602,101,6544.36
+Verdant Foods,Grocery,Audio,LATAM,2026-Q3,Verdant Audio 2026-Q3,48091.43,7328889,13527,150,9130.8
+Verdant Foods,Grocery,Social,North America,2025-Q1,Verdant Social 2025-Q1,63114.14,7974423,66344,1470,87272.02
+Verdant Foods,Grocery,Social,North America,2025-Q2,Verdant Social 2025-Q2,50200.88,5727153,49859,1129,79419.56
+Verdant Foods,Grocery,Social,North America,2025-Q3,Verdant Social 2025-Q3,53503.75,5214432,56292,1159,66858.45
+Verdant Foods,Grocery,Social,North America,2025-Q4,Verdant Social 2025-Q4,75165.89,8704298,69117,1292,85574.61
+Verdant Foods,Grocery,Social,North America,2026-Q1,Verdant Social 2026-Q1,77423.05,7425966,69593,1554,113727.96
+Verdant Foods,Grocery,Social,North America,2026-Q2,Verdant Social 2026-Q2,78447.94,7357716,71850,1792,121620.64
+Verdant Foods,Grocery,Social,North America,2026-Q3,Verdant Social 2026-Q3,75949.89,8992649,65651,1793,131818.02
+Verdant Foods,Grocery,Social,Europe,2025-Q1,Verdant Social 2025-Q1,47607.46,5847594,44046,987,61123.64
+Verdant Foods,Grocery,Social,Europe,2025-Q2,Verdant Social 2025-Q2,48435.23,6107041,58649,1519,84496.12
+Verdant Foods,Grocery,Social,Europe,2025-Q3,Verdant Social 2025-Q3,50462.42,5870217,53929,1295,80657.53
+Verdant Foods,Grocery,Social,Europe,2025-Q4,Verdant Social 2025-Q4,98710.81,11114844,91600,2349,165788.07
+Verdant Foods,Grocery,Social,Europe,2026-Q1,Verdant Social 2026-Q1,56913.69,6954909,54387,1228,89632.56
+Verdant Foods,Grocery,Social,Europe,2026-Q2,Verdant Social 2026-Q2,71487.29,7436069,61969,1729,100131.37
+Verdant Foods,Grocery,Social,Europe,2026-Q3,Verdant Social 2026-Q3,67788.57,6934232,71058,1856,114742.65
+Verdant Foods,Grocery,Social,APAC,2025-Q1,Verdant Social 2025-Q1,58273.16,5427699,50095,1040,59346.07
+Verdant Foods,Grocery,Social,APAC,2025-Q2,Verdant Social 2025-Q2,48883.26,4735448,44022,959,64335.65
+Verdant Foods,Grocery,Social,APAC,2025-Q3,Verdant Social 2025-Q3,56203.51,5933827,60269,1615,111386.02
+Verdant Foods,Grocery,Social,APAC,2025-Q4,Verdant Social 2025-Q4,65621.95,7991278,78301,2059,150105.88
+Verdant Foods,Grocery,Social,APAC,2026-Q1,Verdant Social 2026-Q1,60700.54,7579918,72460,1902,106291.88
+Verdant Foods,Grocery,Social,APAC,2026-Q2,Verdant Social 2026-Q2,79224.37,9332486,102628,2212,123866.18
+Verdant Foods,Grocery,Social,APAC,2026-Q3,Verdant Social 2026-Q3,72477.52,8430312,73340,1410,85708.78
+Verdant Foods,Grocery,Social,LATAM,2025-Q1,Verdant Social 2025-Q1,30640.2,3621487,33794,707,47551.24
+Verdant Foods,Grocery,Social,LATAM,2025-Q2,Verdant Social 2025-Q2,33665.81,3556611,25442,702,40859.81
+Verdant Foods,Grocery,Social,LATAM,2025-Q3,Verdant Social 2025-Q3,23102.19,2481834,23553,503,31636.08
+Verdant Foods,Grocery,Social,LATAM,2025-Q4,Verdant Social 2025-Q4,43283.26,4761662,38865,857,52975.24
+Verdant Foods,Grocery,Social,LATAM,2026-Q1,Verdant Social 2026-Q1,33458.17,3506343,31797,701,47731.2
+Verdant Foods,Grocery,Social,LATAM,2026-Q2,Verdant Social 2026-Q2,39467.41,4071380,34163,934,52721.22
+Verdant Foods,Grocery,Social,LATAM,2026-Q3,Verdant Social 2026-Q3,41774.11,4653448,40071,1058,70910.37
+Verdant Foods,Grocery,OOH,North America,2025-Q1,Verdant OOH 2025-Q1,89506.21,6699358,2200,16,903.08
+Verdant Foods,Grocery,OOH,North America,2025-Q2,Verdant OOH 2025-Q2,82929.61,4616899,1340,7,438.65
+Verdant Foods,Grocery,OOH,North America,2025-Q3,Verdant OOH 2025-Q3,70887.51,4974451,1582,11,765.85
+Verdant Foods,Grocery,OOH,North America,2025-Q4,Verdant OOH 2025-Q4,105702.86,7934197,2105,16,1010.27
+Verdant Foods,Grocery,OOH,North America,2026-Q1,Verdant OOH 2026-Q1,83172.14,5731248,1995,14,786.66
+Verdant Foods,Grocery,OOH,North America,2026-Q2,Verdant OOH 2026-Q2,83323.75,5529463,1516,9,526.87
+Verdant Foods,Grocery,OOH,North America,2026-Q3,Verdant OOH 2026-Q3,117990.68,7791420,2343,14,909.13
+Verdant Foods,Grocery,OOH,Europe,2025-Q1,Verdant OOH 2025-Q1,79098.3,6098322,2437,15,1118.04
+Verdant Foods,Grocery,OOH,Europe,2025-Q2,Verdant OOH 2025-Q2,75518.44,5786053,1563,12,755.06
+Verdant Foods,Grocery,OOH,Europe,2025-Q3,Verdant OOH 2025-Q3,98688.86,6018787,1616,9,605.39
+Verdant Foods,Grocery,OOH,Europe,2025-Q4,Verdant OOH 2025-Q4,142993.95,8558655,2294,17,1135.4
+Verdant Foods,Grocery,OOH,Europe,2026-Q1,Verdant OOH 2026-Q1,62659.08,3817668,1129,8,505.29
+Verdant Foods,Grocery,OOH,Europe,2026-Q2,Verdant OOH 2026-Q2,62905.1,4577307,1305,9,649.71
+Verdant Foods,Grocery,OOH,Europe,2026-Q3,Verdant OOH 2026-Q3,97536.27,5799318,2246,12,921.65
+Verdant Foods,Grocery,OOH,APAC,2025-Q1,Verdant OOH 2025-Q1,77176.24,4831573,1420,8,530.56
+Verdant Foods,Grocery,OOH,APAC,2025-Q2,Verdant OOH 2025-Q2,95740.67,6364258,2283,17,1034.2
+Verdant Foods,Grocery,OOH,APAC,2025-Q3,Verdant OOH 2025-Q3,61464.61,3853529,1214,7,469.07
+Verdant Foods,Grocery,OOH,APAC,2025-Q4,Verdant OOH 2025-Q4,131405.66,7500104,2936,21,1340.97
+Verdant Foods,Grocery,OOH,APAC,2026-Q1,Verdant OOH 2026-Q1,92839.63,5634431,1583,12,736.91
+Verdant Foods,Grocery,OOH,APAC,2026-Q2,Verdant OOH 2026-Q2,79507.29,4849106,1875,13,967.39
+Verdant Foods,Grocery,OOH,APAC,2026-Q3,Verdant OOH 2026-Q3,109598.45,8465382,2405,16,1019.52
+Verdant Foods,Grocery,OOH,LATAM,2025-Q1,Verdant OOH 2025-Q1,59376.07,4299327,1459,9,632.76
+Verdant Foods,Grocery,OOH,LATAM,2025-Q2,Verdant OOH 2025-Q2,55612.02,3203804,1170,7,469.23
+Verdant Foods,Grocery,OOH,LATAM,2025-Q3,Verdant OOH 2025-Q3,39404.59,2758767,847,5,301.89
+Verdant Foods,Grocery,OOH,LATAM,2025-Q4,Verdant OOH 2025-Q4,71619.76,5369956,2046,13,771.46
+Verdant Foods,Grocery,OOH,LATAM,2026-Q1,Verdant OOH 2026-Q1,43859.76,3112830,866,5,326.57
+Verdant Foods,Grocery,OOH,LATAM,2026-Q2,Verdant OOH 2026-Q2,56448.28,3434218,1091,7,488.47
+Verdant Foods,Grocery,OOH,LATAM,2026-Q3,Verdant OOH 2026-Q3,53855.83,3593221,1168,7,501.41
+Verdant Foods,Grocery,Display,North America,2025-Q1,Verdant Display 2025-Q1,35110.34,9044511,37552,425,27789.58
+Verdant Foods,Grocery,Display,North America,2025-Q2,Verdant Display 2025-Q2,63397.46,14715077,62081,541,36426.43
+Verdant Foods,Grocery,Display,North America,2025-Q3,Verdant Display 2025-Q3,45003.1,11403734,35518,365,21386.32
+Verdant Foods,Grocery,Display,North America,2025-Q4,Verdant Display 2025-Q4,83226.93,19995172,88770,737,41188.26
+Verdant Foods,Grocery,Display,North America,2026-Q1,Verdant Display 2026-Q1,52370.47,11094685,32783,342,18823.09
+Verdant Foods,Grocery,Display,North America,2026-Q2,Verdant Display 2026-Q2,53063.41,14876911,58730,542,36339.38
+Verdant Foods,Grocery,Display,North America,2026-Q3,Verdant Display 2026-Q3,59255.41,16906541,53672,475,27383.85
+Verdant Foods,Grocery,Display,Europe,2025-Q1,Verdant Display 2025-Q1,45214.62,10864061,38990,438,28041.76
+Verdant Foods,Grocery,Display,Europe,2025-Q2,Verdant Display 2025-Q2,35469.71,8071977,34407,351,19351.11
+Verdant Foods,Grocery,Display,Europe,2025-Q3,Verdant Display 2025-Q3,45376.71,13171080,50839,404,26210.55
+Verdant Foods,Grocery,Display,Europe,2025-Q4,Verdant Display 2025-Q4,53169.86,11564362,35071,369,25077.74
+Verdant Foods,Grocery,Display,Europe,2026-Q1,Verdant Display 2026-Q1,42624.83,10077069,34407,302,17978.51
+Verdant Foods,Grocery,Display,Europe,2026-Q2,Verdant Display 2026-Q2,46964.8,10816122,32409,276,15502.35
+Verdant Foods,Grocery,Display,Europe,2026-Q3,Verdant Display 2026-Q3,43543.57,10514530,38242,390,27273.4
+Verdant Foods,Grocery,Display,APAC,2025-Q1,Verdant Display 2025-Q1,32306.02,7843954,26570,263,19319.62
+Verdant Foods,Grocery,Display,APAC,2025-Q2,Verdant Display 2025-Q2,40311.59,9909262,42798,338,18840.92
+Verdant Foods,Grocery,Display,APAC,2025-Q3,Verdant Display 2025-Q3,41960.16,8891736,26341,205,11192.47
+Verdant Foods,Grocery,Display,APAC,2025-Q4,Verdant Display 2025-Q4,90334.54,25142630,95274,1004,54967.59
+Verdant Foods,Grocery,Display,APAC,2026-Q1,Verdant Display 2026-Q1,37302.49,9937785,37539,345,21082.2
+Verdant Foods,Grocery,Display,APAC,2026-Q2,Verdant Display 2026-Q2,59194.71,17383644,62140,548,33594.88
+Verdant Foods,Grocery,Display,APAC,2026-Q3,Verdant Display 2026-Q3,46778.85,12091250,48523,578,33681.95
+Verdant Foods,Grocery,Display,LATAM,2025-Q1,Verdant Display 2025-Q1,18575.6,4359794,13269,102,7333.8
+Verdant Foods,Grocery,Display,LATAM,2025-Q2,Verdant Display 2025-Q2,31805.42,8962452,35330,379,27143.8
+Verdant Foods,Grocery,Display,LATAM,2025-Q3,Verdant Display 2025-Q3,26611.24,6935883,23551,201,13432.94
+Verdant Foods,Grocery,Display,LATAM,2025-Q4,Verdant Display 2025-Q4,38213.34,10860516,38080,350,19597.87
+Verdant Foods,Grocery,Display,LATAM,2026-Q1,Verdant Display 2026-Q1,32392.81,6782115,22572,244,17511.16
+Verdant Foods,Grocery,Display,LATAM,2026-Q2,Verdant Display 2026-Q2,27528.4,5873880,24038,251,14628.28
+Verdant Foods,Grocery,Display,LATAM,2026-Q3,Verdant Display 2026-Q3,32677.99,9225401,39955,446,25031.58
+Pulse Streaming,Media,Video,North America,2025-Q1,Pulse Video 2025-Q1,56704.75,4497811,38582,869,36749.09
+Pulse Streaming,Media,Video,North America,2025-Q2,Pulse Video 2025-Q2,80473.96,6376523,54023,1044,45452.1
+Pulse Streaming,Media,Video,North America,2025-Q3,Pulse Video 2025-Q3,64945.92,5776929,35162,671,29801.62
+Pulse Streaming,Media,Video,North America,2025-Q4,Pulse Video 2025-Q4,76483.48,5480378,47164,822,40292.92
+Pulse Streaming,Media,Video,North America,2026-Q1,Pulse Video 2026-Q1,78146.32,7208695,52444,933,42982.5
+Pulse Streaming,Media,Video,North America,2026-Q2,Pulse Video 2026-Q2,85058.43,6243832,39569,825,40639.73
+Pulse Streaming,Media,Video,North America,2026-Q3,Pulse Video 2026-Q3,64194.71,4551648,30251,572,29084.62
+Pulse Streaming,Media,Video,Europe,2025-Q1,Pulse Video 2025-Q1,60876.7,4596497,27953,484,24903.83
+Pulse Streaming,Media,Video,Europe,2025-Q2,Pulse Video 2025-Q2,49704.11,3601757,22818,414,22061.08
+Pulse Streaming,Media,Video,Europe,2025-Q3,Pulse Video 2025-Q3,42304.62,3968098,24974,572,25549.85
+Pulse Streaming,Media,Video,Europe,2025-Q4,Pulse Video 2025-Q4,56297.35,4107683,30901,703,38613.6
+Pulse Streaming,Media,Video,Europe,2026-Q1,Pulse Video 2026-Q1,48910.59,3523794,25850,460,19661.94
+Pulse Streaming,Media,Video,Europe,2026-Q2,Pulse Video 2026-Q2,64154.97,5952308,47802,1004,41630.24
+Pulse Streaming,Media,Video,Europe,2026-Q3,Pulse Video 2026-Q3,56143.95,4419665,30915,533,25393.86
+Pulse Streaming,Media,Video,APAC,2025-Q1,Pulse Video 2025-Q1,59569.36,4707339,33170,712,34707.23
+Pulse Streaming,Media,Video,APAC,2025-Q2,Pulse Video 2025-Q2,63725.46,5774491,35041,564,29799.34
+Pulse Streaming,Media,Video,APAC,2025-Q3,Pulse Video 2025-Q3,55376.8,4911129,36557,749,40301.72
+Pulse Streaming,Media,Video,APAC,2025-Q4,Pulse Video 2025-Q4,95932.89,8983515,54847,1123,50541.5
+Pulse Streaming,Media,Video,APAC,2026-Q1,Pulse Video 2026-Q1,65421.65,4998199,33049,726,29852.56
+Pulse Streaming,Media,Video,APAC,2026-Q2,Pulse Video 2026-Q2,68287.41,4873924,41635,880,48385.79
+Pulse Streaming,Media,Video,APAC,2026-Q3,Pulse Video 2026-Q3,50312.32,4394095,30809,634,33351.68
+Pulse Streaming,Media,Video,LATAM,2025-Q1,Pulse Video 2025-Q1,22927.88,2204218,17203,309,16571.91
+Pulse Streaming,Media,Video,LATAM,2025-Q2,Pulse Video 2025-Q2,36168.24,3160977,19067,357,17655.51
+Pulse Streaming,Media,Video,LATAM,2025-Q3,Pulse Video 2025-Q3,30153.45,2898389,21584,488,20680.51
+Pulse Streaming,Media,Video,LATAM,2025-Q4,Pulse Video 2025-Q4,36486.97,3479350,19669,381,17117.84
+Pulse Streaming,Media,Video,LATAM,2026-Q1,Pulse Video 2026-Q1,32772.31,3195197,24399,551,25812.53
+Pulse Streaming,Media,Video,LATAM,2026-Q2,Pulse Video 2026-Q2,33752.28,3003435,19207,316,17039.69
+Pulse Streaming,Media,Video,LATAM,2026-Q3,Pulse Video 2026-Q3,34158.63,3169921,24983,502,24212.88
+Pulse Streaming,Media,Social,North America,2025-Q1,Pulse Social 2025-Q1,67826.53,6671101,62793,1640,84699.97
+Pulse Streaming,Media,Social,North America,2025-Q2,Pulse Social 2025-Q2,54380.54,5107713,49379,1434,69634.78
+Pulse Streaming,Media,Social,North America,2025-Q3,Pulse Social 2025-Q3,67490.81,6689319,60392,1768,92250.65
+Pulse Streaming,Media,Social,North America,2025-Q4,Pulse Social 2025-Q4,91784.97,9794718,107558,2957,143573.39
+Pulse Streaming,Media,Social,North America,2026-Q1,Pulse Social 2026-Q1,68768.13,7076203,97261,2993,133732.93
+Pulse Streaming,Media,Social,North America,2026-Q2,Pulse Social 2026-Q2,77300.13,9817981,99433,2376,120352.63
+Pulse Streaming,Media,Social,North America,2026-Q3,Pulse Social 2026-Q3,85051.66,8879899,94969,2682,119464.9
+Pulse Streaming,Media,Social,Europe,2025-Q1,Pulse Social 2025-Q1,47127.71,6120499,63573,1882,81719.0
+Pulse Streaming,Media,Social,Europe,2025-Q2,Pulse Social 2025-Q2,36385.99,3970809,42226,979,43920.81
+Pulse Streaming,Media,Social,Europe,2025-Q3,Pulse Social 2025-Q3,46310.29,5425392,48955,1454,65691.4
+Pulse Streaming,Media,Social,Europe,2025-Q4,Pulse Social 2025-Q4,82574.9,8401026,103931,3493,183298.73
+Pulse Streaming,Media,Social,Europe,2026-Q1,Pulse Social 2026-Q1,44408.96,4703160,47414,1182,51750.88
+Pulse Streaming,Media,Social,Europe,2026-Q2,Pulse Social 2026-Q2,71229.47,8476653,84022,2594,115235.76
+Pulse Streaming,Media,Social,Europe,2026-Q3,Pulse Social 2026-Q3,49146.81,5474106,53617,1666,73323.92
+Pulse Streaming,Media,Social,APAC,2025-Q1,Pulse Social 2025-Q1,65218.94,7949179,88923,2963,133856.17
+Pulse Streaming,Media,Social,APAC,2025-Q2,Pulse Social 2025-Q2,55079.14,6098456,55779,1264,66905.55
+Pulse Streaming,Media,Social,APAC,2025-Q3,Pulse Social 2025-Q3,79801.92,8133826,88193,2907,126773.92
+Pulse Streaming,Media,Social,APAC,2025-Q4,Pulse Social 2025-Q4,64494.92,6877678,87540,1993,91733.87
+Pulse Streaming,Media,Social,APAC,2026-Q1,Pulse Social 2026-Q1,80120.68,8429483,80082,2342,118957.85
+Pulse Streaming,Media,Social,APAC,2026-Q2,Pulse Social 2026-Q2,56738.71,6789617,74563,1950,90452.09
+Pulse Streaming,Media,Social,APAC,2026-Q3,Pulse Social 2026-Q3,52560.74,4945902,43851,1505,62159.72
+Pulse Streaming,Media,Social,LATAM,2025-Q1,Pulse Social 2025-Q1,35883.12,4323802,44188,1467,77643.78
+Pulse Streaming,Media,Social,LATAM,2025-Q2,Pulse Social 2025-Q2,38295.01,4313658,38298,1159,62341.28
+Pulse Streaming,Media,Social,LATAM,2025-Q3,Pulse Social 2025-Q3,45438.93,4429804,39021,1234,59119.28
+Pulse Streaming,Media,Social,LATAM,2025-Q4,Pulse Social 2025-Q4,40230.53,3866014,34910,1001,44335.59
+Pulse Streaming,Media,Social,LATAM,2026-Q1,Pulse Social 2026-Q1,33302.99,4237642,44854,1235,50482.83
+Pulse Streaming,Media,Social,LATAM,2026-Q2,Pulse Social 2026-Q2,28533.87,2725800,24806,850,40715.99
+Pulse Streaming,Media,Social,LATAM,2026-Q3,Pulse Social 2026-Q3,26130.93,2441533,27208,759,35093.36
+Pulse Streaming,Media,OOH,North America,2025-Q1,Pulse OOH 2025-Q1,101155.67,7301054,2708,17,950.19
+Pulse Streaming,Media,OOH,North America,2025-Q2,Pulse OOH 2025-Q2,154250.16,9696176,4648,38,1702.82
+Pulse Streaming,Media,OOH,North America,2025-Q3,Pulse OOH 2025-Q3,93553.61,6084293,2274,16,756.04
+Pulse Streaming,Media,OOH,North America,2025-Q4,Pulse OOH 2025-Q4,160362.94,11775823,5879,42,1905.75
+Pulse Streaming,Media,OOH,North America,2026-Q1,Pulse OOH 2026-Q1,88769.73,5995007,2319,20,1103.04
+Pulse Streaming,Media,OOH,North America,2026-Q2,Pulse OOH 2026-Q2,182859.74,10756892,4039,31,1354.67
+Pulse Streaming,Media,OOH,North America,2026-Q3,Pulse OOH 2026-Q3,124241.32,8446102,3768,24,1244.31
+Pulse Streaming,Media,OOH,Europe,2025-Q1,Pulse OOH 2025-Q1,89415.09,5913615,2609,18,885.81
+Pulse Streaming,Media,OOH,Europe,2025-Q2,Pulse OOH 2025-Q2,101713.46,7474595,3021,21,914.55
+Pulse Streaming,Media,OOH,Europe,2025-Q3,Pulse OOH 2025-Q3,65625.02,4332402,1888,17,913.36
+Pulse Streaming,Media,OOH,Europe,2025-Q4,Pulse OOH 2025-Q4,83061.72,5428169,2395,22,1142.38
+Pulse Streaming,Media,OOH,Europe,2026-Q1,Pulse OOH 2026-Q1,91622.89,6811743,3244,24,1121.54
+Pulse Streaming,Media,OOH,Europe,2026-Q2,Pulse OOH 2026-Q2,97375.97,7036587,3409,24,1035.85
+Pulse Streaming,Media,OOH,Europe,2026-Q3,Pulse OOH 2026-Q3,95315.3,5631489,2209,20,969.61
+Pulse Streaming,Media,OOH,APAC,2025-Q1,Pulse OOH 2025-Q1,76663.51,5746045,2131,14,750.34
+Pulse Streaming,Media,OOH,APAC,2025-Q2,Pulse OOH 2025-Q2,109515.66,6763589,2454,22,1223.2
+Pulse Streaming,Media,OOH,APAC,2025-Q3,Pulse OOH 2025-Q3,84898.12,5885996,2804,26,1416.55
+Pulse Streaming,Media,OOH,APAC,2025-Q4,Pulse OOH 2025-Q4,103040.9,6560371,2200,17,859.25
+Pulse Streaming,Media,OOH,APAC,2026-Q1,Pulse OOH 2026-Q1,107425.26,7177869,2770,18,776.08
+Pulse Streaming,Media,OOH,APAC,2026-Q2,Pulse OOH 2026-Q2,97555.84,7642224,3802,36,2014.29
+Pulse Streaming,Media,OOH,APAC,2026-Q3,Pulse OOH 2026-Q3,98973.18,7754721,2643,19,866.08
+Pulse Streaming,Media,OOH,LATAM,2025-Q1,Pulse OOH 2025-Q1,41954.56,2388652,1155,10,470.58
+Pulse Streaming,Media,OOH,LATAM,2025-Q2,Pulse OOH 2025-Q2,66117.04,3877680,1466,10,430.14
+Pulse Streaming,Media,OOH,LATAM,2025-Q3,Pulse OOH 2025-Q3,61580.12,3597250,1200,9,437.98
+Pulse Streaming,Media,OOH,LATAM,2025-Q4,Pulse OOH 2025-Q4,69270.71,5111105,2238,16,848.4
+Pulse Streaming,Media,OOH,LATAM,2026-Q1,Pulse OOH 2026-Q1,48046.16,2813116,1328,9,443.28
+Pulse Streaming,Media,OOH,LATAM,2026-Q2,Pulse OOH 2026-Q2,48214.5,3421770,1168,10,447.01
+Pulse Streaming,Media,OOH,LATAM,2026-Q3,Pulse OOH 2026-Q3,67414.04,3989386,1828,18,838.92
+Pulse Streaming,Media,Audio,North America,2025-Q1,Pulse Audio 2025-Q1,53629.47,8062882,18511,224,9274.36
+Pulse Streaming,Media,Audio,North America,2025-Q2,Pulse Audio 2025-Q2,51580.35,6763686,14242,222,10970.44
+Pulse Streaming,Media,Audio,North America,2025-Q3,Pulse Audio 2025-Q3,49044.12,8032276,15377,241,10713.68
+Pulse Streaming,Media,Audio,North America,2025-Q4,Pulse Audio 2025-Q4,54420.87,7726241,15210,210,11377.79
+Pulse Streaming,Media,Audio,North America,2026-Q1,Pulse Audio 2026-Q1,48224.44,7951755,16158,219,10033.17
+Pulse Streaming,Media,Audio,North America,2026-Q2,Pulse Audio 2026-Q2,56790.18,9239882,15062,193,9705.29
+Pulse Streaming,Media,Audio,North America,2026-Q3,Pulse Audio 2026-Q3,50779.22,6253122,14521,200,10184.77
+Pulse Streaming,Media,Audio,Europe,2025-Q1,Pulse Audio 2025-Q1,39848.16,6391243,13447,203,9218.06
+Pulse Streaming,Media,Audio,Europe,2025-Q2,Pulse Audio 2025-Q2,42523.05,6900943,15060,200,9416.16
+Pulse Streaming,Media,Audio,Europe,2025-Q3,Pulse Audio 2025-Q3,30690.62,4511172,8501,155,7652.59
+Pulse Streaming,Media,Audio,Europe,2025-Q4,Pulse Audio 2025-Q4,63756.97,9816570,21371,311,15131.86
+Pulse Streaming,Media,Audio,Europe,2026-Q1,Pulse Audio 2026-Q1,41826.44,6802603,16257,271,14796.53
+Pulse Streaming,Media,Audio,Europe,2026-Q2,Pulse Audio 2026-Q2,46017.11,6930776,11935,167,7634.13
+Pulse Streaming,Media,Audio,Europe,2026-Q3,Pulse Audio 2026-Q3,47922.19,7262861,13542,240,11378.66
+Pulse Streaming,Media,Audio,APAC,2025-Q1,Pulse Audio 2025-Q1,35909.28,5913992,10465,192,8009.59
+Pulse Streaming,Media,Audio,APAC,2025-Q2,Pulse Audio 2025-Q2,36339.39,5033817,9367,124,6180.1
+Pulse Streaming,Media,Audio,APAC,2025-Q3,Pulse Audio 2025-Q3,55078.79,8591615,17914,269,14306.02
+Pulse Streaming,Media,Audio,APAC,2025-Q4,Pulse Audio 2025-Q4,51325.19,7870598,16595,202,10748.49
+Pulse Streaming,Media,Audio,APAC,2026-Q1,Pulse Audio 2026-Q1,55300.32,8187409,18808,257,14012.06
+Pulse Streaming,Media,Audio,APAC,2026-Q2,Pulse Audio 2026-Q2,39345.91,6596715,10960,165,6841.91
+Pulse Streaming,Media,Audio,APAC,2026-Q3,Pulse Audio 2026-Q3,43288.54,5774620,12195,197,9266.2
+Pulse Streaming,Media,Audio,LATAM,2025-Q1,Pulse Audio 2025-Q1,24433.6,3174665,6309,87,3765.02
+Pulse Streaming,Media,Audio,LATAM,2025-Q2,Pulse Audio 2025-Q2,29563.9,4337927,7254,132,5891.63
+Pulse Streaming,Media,Audio,LATAM,2025-Q3,Pulse Audio 2025-Q3,26589.04,4350283,9121,149,6260.29
+Pulse Streaming,Media,Audio,LATAM,2025-Q4,Pulse Audio 2025-Q4,24689.77,3888339,7141,121,5532.64
+Pulse Streaming,Media,Audio,LATAM,2026-Q1,Pulse Audio 2026-Q1,26309.25,4026749,7580,126,6722.1
+Pulse Streaming,Media,Audio,LATAM,2026-Q2,Pulse Audio 2026-Q2,26535.52,3986802,8284,122,6184.74
+Pulse Streaming,Media,Audio,LATAM,2026-Q3,Pulse Audio 2026-Q3,38159.94,4766569,10686,140,6383.78
